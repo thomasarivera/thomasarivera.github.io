@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Thomas Rivera",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://avatars.githubusercontent.com/u/70453373?s=400&u=e7bac78cecc91df9beea926553363df061cb79b4&v=4",
+    "email": "thomas5info@gmail.com",
+    "phone": "808-292-9745",
+    "website": "http://thomasarivera.com",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -17,9 +17,9 @@
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Computer Networking" },
+    { "name": "Software Development" },
+    { "name": "Gardening" },
     { "name": "3D Graphics" }
   ],
   "skills": [
