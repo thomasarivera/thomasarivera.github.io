@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Boyscout - Eagle website drawin.jpg
 title: "Tutoring Coordination Program"
-date: 2020
+date: 2020-5-15
 published: true
 labels:
   - Leadership
@@ -11,8 +11,6 @@ labels:
   - Boy Scouts
 summary: "A program that allowed members of Damien Memorial School to collaborate, schedule, and organize tutoring help."
 ---
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Project Description:
 The Tutoring Coordination Program is a program that will allow parents, about 700 students, 50 teachers, and the National Honor Society (NHS) of Damien Memorial School to collaborate, schedule, and organize tutoring using forms to collect information.
