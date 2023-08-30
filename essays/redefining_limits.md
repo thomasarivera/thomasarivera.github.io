@@ -14,7 +14,7 @@ labels:
 
 ## Introduction:
 Nothing is more exciting than learning a new programming language: In this case, it is JavaScript. It starts with a simple “Hello World.” almost like the program welcomes me; However, it's all a facade. Like many other tutorials, what hides behind the excitement is hours of boring text. Despite this, the end result makes it all the more rewarding.
-
+<br />
 ## Is It Any Good?:	
 	
 Learning Javascript was a fun experience and showed me what is possible when not bound by a single language. In my very short experience with coding, I found that learning new languages is simple. The idea of programming is fundamental and can be used in various settings, not just computers. So, with only some syntax changes, JavaScript was quickly added to my repertoire. 
