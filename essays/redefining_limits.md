@@ -11,46 +11,18 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+Introduction:
+Nothing is more exciting than learning a new programming language. It starts with a simple “Hello World.” almost like the program welcomes me; However, it's all a facade. Like many other tutorials, what hides behind the excitement is hours of boring text. Despite this, the end result makes it all the more rewarding.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Is It Any Good?:	
+	Learning Javascript was a fun experience and showed me what is possible when not bound by a single language. In my very short experience with coding, I found that learning new languages is simple. The idea of programming is fundamental and can be used in various settings, not just computers. So, with only some syntax changes, JavaScript was quickly added to my repertoire. 
+All of my learning took place on FreeCodeCamp. It has been an excellent resource and teaches it in an easy-to-understand way. One of the few changes that caught my attention is the importance of data types or lack of it. In most languages I’ve used, such as Java and C, variables must be paired with a data type. However, in JavaScript, variables are created dynamically. Instead of using an int value to store only an integer, JavaScript uses var, let, or const, allowing for different types of data to be stored. For example, by making a variable “x” in JavaScript, I can assign it any type of value: integer, string, boolean, whatever!
+With the lack of strict rules, I found myself being able to quickly code and solve problems. Although, that is not to say it’s all good. One drawback of these relaxed variables is the possibility of more errors in variable typing. While languages such as Java and C can be strict, this strictness is also a net that catches the user from making simple variable-type mistakes. I experienced this while learning. After I created a variable for a string, I then accidentally assigned that variable to an integer, which broke my program.
+I always hear people say that one programming language is better than the other, but that is not true at all. Programming languages are a tool, and some tools are better for a particular job. I found JavaScript to be easy to pick up and has a good stream of thought to code workflow. So, yes, JavaScript is great!
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Learn Quick or Fail Quick:
+My Fall 2023 semester has already begun with a massive wave of work, but that’s not to say I’m not excited. ICS 314 Software Engineering is one of the classes I’ve been looking forward to since attending UH Manoa, and I’m ready for the challenge. 
+Attempting my first couple of Work Outs of the Days (WODs) was, to put it lightly, a massive failure. Not only did I not finish in time, but I also didn’t get a working solution. Seeing my results made me stressed out. However, I know failure is a part of life, and it’s also a major component of learning. By studying and practicing more often, I know I can improve to become faster. This is only my first step towards success. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Moving Foward:
+	I’ve learned a lot just within these first two weeks. There’s much to cover and much more to learn. Although I feel as though I am a bit setback, I’m determined to succeed and become an even stronger programmer.
