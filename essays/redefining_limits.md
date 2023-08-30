@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Introduction:
-Nothing is more exciting than learning a new programming language. It starts with a simple “Hello World.” almost like the program welcomes me; However, it's all a facade. Like many other tutorials, what hides behind the excitement is hours of boring text. Despite this, the end result makes it all the more rewarding.
+Nothing is more exciting than learning a new programming language: In this case, it is JavaScript. It starts with a simple “Hello World.” almost like the program welcomes me; However, it's all a facade. Like many other tutorials, what hides behind the excitement is hours of boring text. Despite this, the end result makes it all the more rewarding.
 
 ## Is It Any Good?:	
 	
