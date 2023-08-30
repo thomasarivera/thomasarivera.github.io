@@ -10,7 +10,7 @@ labels:
   - Learning
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="..img/redefining_limits/JavaScript_Logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/redefining_limits/JavaScript_Logo.png">
 
 ## Introduction:
 Nothing is more exciting than learning a new programming language: In this case, it is JavaScript. It starts with a simple “Hello World.” almost like the program welcomes me; However, it's all a facade. Like many other tutorials, what hides behind the excitement is hours of boring text. Despite this, the end result makes it all the more rewarding.
