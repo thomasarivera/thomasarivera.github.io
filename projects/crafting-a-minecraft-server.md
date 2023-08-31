@@ -11,7 +11,7 @@ labels:
 summary: "Building a local Minecraft Server."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/minecraft-landscape.png">
 
 ## Introduction:
 One of my first introductions to online multiplayer games is Minecraft. While I didn’t think much of it back then, I see it as a marvel of technology today, allowing me and others to play the same game simultaneously. Now, with more knowledge of computers and the internet, I wanted to try my hand at making my own server.
