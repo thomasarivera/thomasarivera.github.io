@@ -33,12 +33,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2023-01-10",
       "endDate": "Present",
       "courses": [ 
+      ]
+    }
+    {
+      "institution": "University of Hawaii Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2021-05-30",
+      "endDate": "2023-8-10",
+      "courses": [ "ICS 111"
       ]
     }
   ],
