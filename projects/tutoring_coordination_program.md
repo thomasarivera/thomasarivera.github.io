@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Boyscout - Eagle website drawin.jpg
 title: "Tutoring Coordination Program"
-date: 2020-5-15
+date: 2020
 published: true
 labels:
   - Leadership
