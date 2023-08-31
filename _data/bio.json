@@ -39,6 +39,7 @@
       "startDate": "2023-01-10",
       "endDate": "Present",
       "courses": [ 
+        "ICS 321",
       ]
     },
     {
@@ -48,10 +49,11 @@
       "startDate": "2021-05-30",
       "endDate": "2023-8-10",
       "courses": [
+        "ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 212", 
       ]
     },
     {
-      "institution": "Damien Memorial School",
+      "institution": "Damien Memorial School, Honolulu, HI",
       "startDate": "2017",
       "endDate": "2021",
       "courses": [ 
