@@ -14,7 +14,7 @@ summary: "Building a local Minecraft Server."
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
 ## Introduction:
-	One of my first introductions to online multiplayer games is Minecraft. While I didn’t think much of it back then, I see it as a marvel of technology today, allowing me and others to play the same game simultaneously. Now, with more knowledge of computers and the internet, I wanted to try my hand at making my own server.
+One of my first introductions to online multiplayer games is Minecraft. While I didn’t think much of it back then, I see it as a marvel of technology today, allowing me and others to play the same game simultaneously. Now, with more knowledge of computers and the internet, I wanted to try my hand at making my own server.
 
 ## Running a Minecraft Server:
 Creating this Minecraft server marked my first step into the world of networking. My goal for this project was to create a private server for me and my friends. In order to run it, I first needed to spec out a computer to run the server. In this project, I got my hands on a quad core CPU with 4 GB of ram running Ubuntu Server and a 256 GB SSD. For the server, I used Minecraft’s official server software. 
