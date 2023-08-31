@@ -52,14 +52,6 @@
         "ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 212", 
       ]
     },
-    {
-      "institution": "Damien Memorial School, Honolulu, HI",
-      "area": "High School",
-      "startDate": "2017",
-      "endDate": "2021",
-      "courses": [ 
-      ]
-    },
   ],
   "work": [
     {
@@ -86,7 +78,7 @@
       "title": "President’s List",
       "date": "2017-2021",
       "awarder": "Damien Memorial School",
-      "summary": " Awarded to students who have 4.0 and higher GPA."
+      "summary": "Awarded to students who have 4.0 and higher GPA."
     },
   ],
   "references": [
