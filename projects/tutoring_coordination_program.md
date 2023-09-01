@@ -8,8 +8,8 @@ published: true
 labels:
   - Leadership
   - Communication
-  - Boy Scouts
-summary: "A program that allowed members of Damien Memorial School to collaborate, schedule, and organize tutoring help."
+  - Personal-Development
+summary: "My Eagle Scout project where I developed a program to assist in the collaboration, scheduling, and organization of tutoring at Damien Memorial School."
 ---
 <img class="img-fluid" src="../img/dmsnhs-webpage.png">
 
