@@ -11,7 +11,7 @@ labels:
   - Boy Scouts
 summary: "A program that allowed members of Damien Memorial School to collaborate, schedule, and organize tutoring help."
 ---
-<img width="1000px" class="rounded float-start pe-4" src="../img/dmsnhs-webpage.png">
+<img class="img-fluid" src="../img/dmsnhs-webpage.png">
 
 ## Project Description:
 The Tutoring Coordination Program is a program that will allow parents, about 700 students, 50 teachers, and the National Honor Society (NHS) of Damien Memorial School to collaborate, schedule, and organize tutoring using forms to collect information.
