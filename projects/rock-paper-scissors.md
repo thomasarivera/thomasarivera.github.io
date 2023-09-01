@@ -13,47 +13,15 @@ summary: "A Rock Paper Scissors game with a graphical user interface I developed
 
 <img class="img-fluid" src="../img/rock-paper-scissors-hand.jpeg">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## Introduction:
+In my ICS 211 class, we were assigned to create a Rock Paper Scissors game with a graphical user interface. It is a player versus computer game where the player will choose between rock, paper, or scissors and will be pitted against the computer who chooses at random. The game also keeps track of the score and logs it into a text document upon exiting the game.
 
-To give you a flavor of the game, here is an excerpt from one run:
+## Creating a GUI:
+Like all other projects, it begins with a plan. As part of my design process, I drew up a mock user interface, giving me a rough idea of what I was shooting for. I aimed to create something simple with easy-to-read text and images. 
 
-<hr>
+In Java, Swing was used to create the GUI. Because this was the first time ever creating a GUI for my program, I found the process slow and tedious initially, but I eventually found my grove. The graphical user interface was by far the most challenging part of this project, with all the tiny adjustments needed. While looking back at this project, I accomplished my goal of creating a readable interface with a good flow.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<img class="img-fluid" src="../img/rps-gui.png">
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+## What I Can Improve:
+For a first attempt, I found my GUI to be a good start. However, one thing that could be better is the aesthetics. Red and yellow may not be the most appealing. To give it a more modern look, a gray and white look may be more professional, but it could also make it look dull. If I were to make it again, I would use bright pastel colors that are easy on the eyes but evoke a sense of joy.
