@@ -21,7 +21,7 @@ Like all other projects, it begins with a plan. As part of my design process, I 
 
 In Java, Swing was used to create the GUI. Because this was the first time ever creating a GUI for my program, I found the process slow and tedious initially, but I eventually found my grove. The graphical user interface was by far the most challenging part of this project, with all the tiny adjustments needed. While looking back at this project, I accomplished my goal of creating a readable interface with a good flow.
 
-<img class="img-fluid" src="../img/rps-gui.png">
+<img class="img-fluid" src="../img/rock-paper-scissors/rps-gui.png">
 
 ## What I Can Improve:
 For a first attempt, I found my GUI to be a good start. However, one thing that could be better is the aesthetics. Red and yellow may not be the most appealing. To give it a more modern look, a gray and white look may be more professional, but it could also make it look dull. If I were to make it again, I would use bright pastel colors that are easy on the eyes but evoke a sense of joy.
