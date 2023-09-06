@@ -11,7 +11,7 @@ labels:
 summary: "A Rock Paper Scissors game with a graphical user interface I developed for ICS 211."
 ---
 
-<img class="img-fluid" src="../img/rock-paper-scissors-hand.jpeg">
+<img class="img-fluid" src="../img/rock-paper-scissors/rock-paper-scissors-hand.jpeg">
 
 ## Introduction:
 In my ICS 211 class, we were assigned to create a Rock Paper Scissors game with a graphical user interface. It is a player versus computer game where the player will choose between rock, paper, or scissors and will be pitted against the computer who chooses at random. The game also keeps track of the score and logs it into a text document upon exiting the game.
