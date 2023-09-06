@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rock-paper-scissors-hand.jpeg
+image: img/rock-paper-scissors/rock-paper-scissors-hand.jpeg
 title: "Rock Paper Scissors"
 date: 2021
 published: true
