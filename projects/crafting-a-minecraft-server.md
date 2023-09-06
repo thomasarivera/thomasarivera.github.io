@@ -8,7 +8,7 @@ published: true
 labels:
   - Ubuntu Server
   - Networking
-summary: "Building a local Minecraft Server."
+summary: "Building virtualized local Minecraft Server."
 ---
 
 <img class="img-fluid" src="../img/crafting-a-minecraft-server/minecraft-landscape.png">
