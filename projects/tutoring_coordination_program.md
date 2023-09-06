@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/eagle-scout-logo.png
+image: img/tutoring-coordination-program/eagle-scout-logo.png
 title: "Tutoring Coordination Program"
 date: 2020
 published: true
