@@ -9,7 +9,7 @@ labels:
   - Personal-Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/carrer-options.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/engineering-the-future/carrer-options.jpeg">
 
 ## Too Many Options:
 Computer Science is a massive career field. It is a wondrous feeling to have the world at my fingertips being privileged enough to choose what I want to do. But I have to choose at some point. Currently, I have an interest in becoming a computer network engineer or a software developer. I find the process of creating something from nothing to be satisfying, and both of these jobs give me that warm feeling. 

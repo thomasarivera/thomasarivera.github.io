@@ -11,14 +11,14 @@ labels:
   - Personal-Development
 summary: "My Eagle Scout project where I developed a program to assist in the collaboration, scheduling, and organization of tutoring at Damien Memorial School."
 ---
-<img class="img-fluid" src="../img/dmsnhs-webpage.png">
+<img class="img-fluid" src="../img/tutoring-coordination-program/dmsnhs-webpage.png">
 
 ## Project Description:
 The Tutoring Coordination Program is a program that will allow parents, about 700 students, 50 teachers, and the National Honor Society (NHS) of Damien Memorial School to collaborate, schedule, and organize tutoring using forms to collect information.
 
 The information collected from the forms will help inform the NHS team on what subjects and grades need the most help with efficiency. The previous method relied on counselors and teachers to notify the NHS about tutoring; however, with the program, the NHS can now instantly get notified by the student. The Tutoring Coordination Program will allow the NHS to quickly plan and execute a solution to help the students effectively. For example, the form shows a trend of students struggling in Geometry. With this information, the NHS can now plan, schedule, and assign members who are proficient in Geometry to help tutor. The lack of a middleman improves the speed at which we receive information about struggling students and allows the NHS to help in a timely manner.
 
-<img class="img-fluid" src="../img/Boyscout - Eagle website drawin.jpg">
+<img class="img-fluid" src="../img/tutoring-coordination-program/Boyscout - Eagle website drawin.jpg">
 
 ## What Went Well:
 One thing that went well was the introduction of the Tutoring Program. Soon after the program was enacted and announced to the public, students quickly started to sign up for tutoring using the Tutoring Coordination Program website and form. I was surprised to see this turn of events, and shows how much of an impact this program could have. Some comments from students, parents, and teachers include:
