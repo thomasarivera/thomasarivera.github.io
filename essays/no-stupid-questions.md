@@ -30,23 +30,32 @@ On StackOverflow, a question and answer site for programmers, I found a couple o
 
 ### "Stupid" Question:
 ```
->Q: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
->
-> We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
->
-> I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the direct server IP so people cannot access or spoof the IP with their host file.
-> Right now we are running Windows Server 2012 R2 Datacenter.
->
-> The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not from the outside world.
->
-> They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
->
-> I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible to spoof it using the host file if they want on their computers or other compromised computers. This will bypass Cloudflare since they are bypassing the proxy DNS on Cloudflare.
->
-> I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used internally on the server.
->
-> Hopefully that makes sense.
-> Thank you for your help!
+Q: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
+
+We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
+now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
+
+I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the
+direct server IP so people cannot access or spoof the IP with their host file.
+
+Right now we are running Windows Server 2012 R2 Datacenter.
+
+The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server
+IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not
+from the outside world.
+
+They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has
+a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
+
+I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible
+to spoof it using the host file if they want on their computers or other compromised computers. This will bypass
+Cloudflare since they are bypassing the proxy DNS on Cloudflare.
+
+I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used
+internally on the server.
+
+Hopefully that makes sense.
+Thank you for your help!
 ```
 
 This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.
