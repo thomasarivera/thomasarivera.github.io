@@ -29,7 +29,7 @@ The next step is creating the question. When writing a "smart" question, Eric Ra
 On StackOverflow, a question and answer site for programmers, I found a couple of questions that display a “stupid” and a “smart” question. 
 
 ### "Stupid" Question:
-
+```
 >Q: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
 >
 > We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
@@ -47,7 +47,7 @@ On StackOverflow, a question and answer site for programmers, I found a couple o
 >
 > Hopefully that makes sense.
 > Thank you for your help!
-
+```
 
 This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.
 
