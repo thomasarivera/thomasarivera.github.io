@@ -30,9 +30,9 @@ On StackOverflow, a question and answer site for programmers, I found a couple o
 
 ### "Stupid" Question:
 ```
-Q: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
+T: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
 
-We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
+Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
 now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
 
 I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the
@@ -62,9 +62,9 @@ This is an example of a “stupid” question. Although the subject title and th
 
 ### “Smart” Question:
 ```
-Q: fatal error: Python.h: No such file or directory
+T: fatal error: Python.h: No such file or directory
 
-I am trying to build a shared library using a C extension file but first I have to generate the output file using the
+Q: I am trying to build a shared library using a C extension file but first I have to generate the output file using the
 command below:
 
 gcc -Wall utilsmodule.c -o Utilc
