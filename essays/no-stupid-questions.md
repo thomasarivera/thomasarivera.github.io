@@ -4,7 +4,7 @@ type: essay
 title: 'No "Stupid" Questions?'
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-06
-published: false
+published: true
 labels:
 - Personal-Development
 - StackOverflow
