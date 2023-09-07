@@ -10,7 +10,7 @@ labels:
 - StackOverflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/no-stupid-questions/img-no-stupid-questions.jpeg">
+<img width="500px" class="rounded float-start pe-4" src="../img/no-stupid-questions/img-no-stupid-question.jpeg">
 
 ## "There Are No Stupid Questions"
 All my life in school, my teachers have said the phrase, "There are no stupid questions." And they are right! There are no stupid questions, but do not expect your question to get a good answer. Asking questions is a crucial task, allowing us humans to communicate clearly and effectively. But the questions we ask should be meaningful.
