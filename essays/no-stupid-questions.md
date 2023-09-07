@@ -61,17 +61,21 @@ Thank you for your help!
 This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.
 
 ### “Smart” Question:
+```
+Q: fatal error: Python.h: No such file or directory
 
->Q: fatal error: Python.h: No such file or directory
->
-> I am trying to build a shared library using a C extension file but first I have to generate the output file using the command below:
-> gcc -Wall utilsmodule.c -o Utilc
->
-> After executing the command, I get this error message:
->
->'>'utilsmodule.c:1:20: fatal error: Python.h: No such file or directory compilation terminated.
->
-> I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h. I managed to locate the file on my machine.
+I am trying to build a shared library using a C extension file but first I have to generate the output file using the
+command below:
+
+gcc -Wall utilsmodule.c -o Utilc
+
+After executing the command, I get this error message:
+
+>utilsmodule.c:1:20: fatal error: Python.h: No such file or directory compilation terminated.
+
+I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h.
+I managed to locate the file on my machine.
+```
 
 The user asking the question does a good job in his format. First off, the subject title is straightforward and shows what the issue is. It is clear that the user is getting an error from Python and that a directory can not be found. In the question itself, the user informs readers on what they are attempting to do and what steps they have taken to get to. Furthermore, as a show of confidence, the user then explains how he already attempted to find a solution and even searched online. Questions like this are a good example of a “smart” question and the answers that follow show that. 
 
