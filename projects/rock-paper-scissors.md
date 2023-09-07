@@ -8,6 +8,7 @@ published: true
 labels:
   - Java
   - Game
+  - GUI
 summary: "A Rock Paper Scissors game with a graphical user interface I developed for ICS 211."
 ---
 
