@@ -26,3 +26,5 @@ In Java, Swing was used to create the GUI. Because this was the first time ever 
 
 ## What I Can Improve:
 For a first attempt, I found my GUI to be a good start. However, one thing that could be better is the aesthetics. Red and yellow may not be the most appealing. To give it a more modern look, a gray and white look may be more professional, but it could also make it look dull. If I were to make it again, I would use bright pastel colors that are easy on the eyes but evoke a sense of joy.
+
+Source: <a href="https://github.com/thomasarivera/rock-paper-scissors">rock-paper-scissors</a>
