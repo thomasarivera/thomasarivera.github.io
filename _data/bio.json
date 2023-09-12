@@ -18,7 +18,8 @@
     { "name": "Computer Networking" },
     { "name": "Software Development" },
     { "name": "Gardening" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics" },
+    {"name": "Video Editing"}
   ],
   "skills": [
     {
