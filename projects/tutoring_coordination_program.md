@@ -32,7 +32,7 @@ One thing that went well was the introduction of the Tutoring Program. Soon afte
 >“Thank you for helping my son.” - Parent
 
 ## What Was Challenging?:
-The most challenging thing was motivating people to help with the tutoring program. I believe because of COVID-19, the NHS Members were at lower morals, causing the amount of tutoring shift sign-ups and the amount of advertising for the program to be smaller. Over time, however, this improved as more people signed up to do tutoring and helped to promote it as we saw more and more students using the Tutoring Coordination Program. To promote the program, school-wide emails were sent, and teachers and counselors promoted it to thier students.
+The most challenging thing was motivating people to help with the tutoring program. I believe because of COVID-19, the NHS Members were at lower morals, causing the amount of tutoring shift sign-ups and the amount of advertising for the program to be smaller. Over time, however, this improved as more people signed up to do tutoring and helped to promote it as we saw more and more students using the Tutoring Coordination Program. To promote the program, school-wide emails were sent, and teachers and counselors promoted it to their students.
 
 Due to COVID-19 and social distancing, tutoring had to be done online via Zoom. While it did not affect the system, it changed how we interacted with students, teachers, counselors, and parents. Instead of meeting with students face to face, I created a Zoom meeting for the tutors and students. Ultimately, I found it much easier to manage and guide tutoring sessions.
 
