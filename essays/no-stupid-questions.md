@@ -12,13 +12,13 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/no-stupid-questions/img-no-stupid-question.jpeg">
 
-## "There Are No Stupid Questions"
+## "There Are No Stupid Questions":
 All my life in school, my teachers have said the phrase, "There are no stupid questions." And they are right! There are no stupid questions, but do not expect your question to get a good answer. Asking questions is a crucial task, allowing us humans to communicate clearly and effectively. But the questions we ask should be meaningful.
 
 In the online essay "How To Ask Questions The Smart Way" by Eric Raymond, he puts into perspective what it means to ask a question from a hacker's point of view. Eric points out that the kind of answers you get to your technical questions depends on the way you ask the questions. Hackers have become notorious for answering questions with a snarky or hostile tone, but that just may be because you asked a "stupid" question.
 
 
-## "Smart" and "Not so Smart" Questions
+## "Smart" and "Not so Smart" Questions:
 Asking the right questions makes all the difference. Even small questions like "Should I brush my teeth tonight?", the answer is no because I'm lazy, can have a significant impact. In this example, my question may be considered "stupid" if I'm trying to take care of my teeth. This is because it's asking a bad question, leading to a bad answer. The smart version of this question is, "Why should I brush my teeth tonight?" The answer is that it prevents cavities, and so yes, I should brush my teeth. 
 
 When it comes to technical questions, like in Software Engineering, asking "smart questions is important. But before you even ask a question, it is also important to do your part. Now, what am I talking about? Shouldn't I be able to just ask the question and have someone spend their precious time answering it for me? No, asking a "smart" question requires you to do your own research first. This includes reading a manual, searching an online forum to see if another person already asked this question, experimenting, or asking a skilled friend. Only after doing everything and still coming up empty-handed should you ask for help.
