@@ -15,11 +15,11 @@ labels:
 ## "There Are No Stupid Questions"
 All my life in school, my teachers have said the phrase, "There are no stupid questions." And they are right! There are no stupid questions, but do not expect your question to get a good answer. Asking questions is a crucial task, allowing us humans to communicate clearly and effectively. But the questions we ask should be meaningful.
 
-In the online essay "How To Ask Questions The Smart Way" by Eric Raymond, he puts into perspective what it means to ask a question from a hacker's point of view. Eric points out that the kind of answers you get to your technical questions depends on the way you ask the questions. Hackers have become notorious for answering questions with a snarky or hostile tone, but that may be because you asked a "stupid" question.
+In the online essay "How To Ask Questions The Smart Way" by Eric Raymond, he puts into perspective what it means to ask a question from a hacker's point of view. Eric points out that the kind of answers you get to your technical questions depends on the way you ask the questions. Hackers have become notorious for answering questions with a snarky or hostile tone, but that just may be because you asked a "stupid" question.
 
 
 ## "Smart" and "Not so Smart" Questions
-Asking the right questions makes all the difference. Even small questions like "Should I brush my teeth tonight?" the answer is no because I'm lazy, which can have a significant impact. In this example, my question may be considered "stupid" if I'm trying to take care of my teeth. This is because it's asking a "stupid" question, leading to a bad answer. The smart version of this question is, "Why should I brush my teeth tonight?" The answer is that it prevents cavities, and so yes, I should brush my teeth. 
+Asking the right questions makes all the difference. Even small questions like "Should I brush my teeth tonight?", the answer is no because I'm lazy, can have a significant impact. In this example, my question may be considered "stupid" if I'm trying to take care of my teeth. This is because it's asking a bad question, leading to a bad answer. The smart version of this question is, "Why should I brush my teeth tonight?" The answer is that it prevents cavities, and so yes, I should brush my teeth. 
 
 When it comes to technical questions, like in Software Engineering, asking "smart questions is important. But before you even ask a question, it is also important to do your part. Now, what am I talking about? Shouldn't I be able to just ask the question and have someone spend their precious time answering it for me? No, asking a "smart" question requires you to do your own research first. This includes reading a manual, searching an online forum to see if another person already asked this question, experimenting, or asking a skilled friend. Only after doing everything and still coming up empty-handed should you ask for help.
 
@@ -29,34 +29,26 @@ The next step is creating the question. When writing a "smart" question, Eric Ra
 On StackOverflow, a question and answer site for programmers, I found a couple of questions that display a “stupid” and a “smart” question. 
 
 ### "Stupid" Question:
-```
-T: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
 
-Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
+>T: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
+>
+>Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
 now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
-
-I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the
-direct server IP so people cannot access or spoof the IP with their host file.
-
-Right now we are running Windows Server 2012 R2 Datacenter.
-
-The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server
-IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not
-from the outside world.
-
-They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has
-a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
-
-I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible
-to spoof it using the host file if they want on their computers or other compromised computers. This will bypass
-Cloudflare since they are bypassing the proxy DNS on Cloudflare.
-
-I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used
-internally on the server.
-
-Hopefully that makes sense.
-Thank you for your help!
-```
+>
+>I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the direct server IP so people cannot access or spoof the IP with their host file.
+>
+>Right now we are running Windows Server 2012 R2 Datacenter.
+>
+>The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not from the outside world.
+>
+>They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
+>
+>I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible to spoof it using the host file if they want on their computers or other compromised computers. This will bypass Cloudflare since they are bypassing the proxy DNS on Cloudflare.
+>
+>I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used internally on the server.
+>
+>Hopefully that makes sense.
+>Thank you for your help!
 
 This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.
 
