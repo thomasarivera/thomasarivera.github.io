@@ -29,45 +29,43 @@ The next step is creating the question. When writing a "smart" question, Eric Ra
 On StackOverflow, a question and answer site for programmers, I found a couple of questions that display a “stupid” and a “smart” question. 
 
 ### "Stupid" Question:
+___
+T: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
 
->T: Cloudflare, block user IP's not from Cloudflare, but still allow server IP scripts to run locally [closed]
->
->Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
+Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
 now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.
->
->I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the direct server IP so people cannot access or spoof the IP with their host file.
->
->Right now we are running Windows Server 2012 R2 Datacenter.
->
->The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not from the outside world.
->
->They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
->
->I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible to spoof it using the host file if they want on their computers or other compromised computers. This will bypass Cloudflare since they are bypassing the proxy DNS on Cloudflare.
->
->I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used internally on the server.
->
->Hopefully that makes sense.
->Thank you for your help!
 
+I know that Cloudflare recommends only allowing their incoming IP's, and to block all other incoming IP's such as the direct server IP so people cannot access or spoof the IP with their host file.
+
+Right now we are running Windows Server 2012 R2 Datacenter.
+
+The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server IP/Domain (Domain modified on web server using host file so we don't go through Cloudflare) on the server itself, not from the outside world.
+
+They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.
+
+I've done some basic things like not allowing internet users to access the site by the direct IP, but it's still possible to spoof it using the host file if they want on their computers or other compromised computers. This will bypass Cloudflare since they are bypassing the proxy DNS on Cloudflare.
+
+I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used internally on the server.
+
+Hopefully that makes sense.
+Thank you for your help!
+___
 This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.
 
 ### “Smart” Question:
-```
+___
 T: fatal error: Python.h: No such file or directory
 
-Q: I am trying to build a shared library using a C extension file but first I have to generate the output file using the
-command below:
+Q: I am trying to build a shared library using a C extension file but first I have to generate the output file using the command below:
 
-gcc -Wall utilsmodule.c -o Utilc
+>gcc -Wall utilsmodule.c -o Utilc
 
 After executing the command, I get this error message:
 
 >utilsmodule.c:1:20: fatal error: Python.h: No such file or directory compilation terminated.
 
-I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h.
-I managed to locate the file on my machine.
-```
+I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h. I managed to locate the file on my machine.
+___
 
 The user asking the question does a good job in his format. First off, the subject title is straightforward and shows what the issue is. It is clear that the user is getting an error from Python and that a directory can not be found. In the question itself, the user informs readers on what they are attempting to do and what steps they have taken to get to. Furthermore, as a show of confidence, the user then explains how he already attempted to find a solution and even searched online. Questions like this are a good example of a “smart” question and the answers that follow show that. 
 
