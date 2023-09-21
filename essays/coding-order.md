@@ -10,7 +10,7 @@ labels:
 - Coding
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/coding-order/standards.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/coding-order/standards.jpg" alt="Two people lifting up an arrow saying 'standards'">
 
 ## Introduction:
 In our world, standards act as the bedrock of civilization. They function as the threads that hold society together, ensuring its smooth operation. It is in our languages, buildings, mannerisms, nature, and even code. Without standards, chaos reigns supreme.
