@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-draft: true
 title: 'A Restrained Freedom
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
+published: true
 labels:
 - Personal-Development
 - Bootstrap-5
