@@ -32,8 +32,8 @@ As an example, I attempted to recreate a small portion of the popular online gra
 
 <div class="container">
 <div class="text-center p-4">
-<img width="500px" src="../img/a-restrained-freedom/1-real.png" class="img-thumbnail" >
-<img width="500px" src="../img/a-restrained-freedom/4-bootstrap.png" class="img-thumbnail" >
+<img width="600px" src="../img/a-restrained-freedom/1-real.png" alt="Screenshot of Desmos.com" class="img-thumbnail" >
+<img width="600px" src="../img/a-restrained-freedom/4-bootstrap.png" alt="Desmos recreated using Bootstrap 5" class="img-thumbnail" >
 </div>
 </div>
 
