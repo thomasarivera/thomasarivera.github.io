@@ -30,8 +30,10 @@ However, it is important to remember that not every problem can be solved with a
 ## Let’s Compare:
 As an example, I attempted to recreate a small portion of the popular online graphing calculator website Desmos in Bootstrap 5 with minimal CSS.
 
+<div class="text-center p-4">
 <img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/1-real.png">
 <img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/4-bootstrap.png">
+</div>
 
 ### Analysis:
 Although it’s not one-to-one and doesn’t have all the fancy bells and whistles, my recreation was only done in a couple of hours. With Bootstrap 5, I was able to quickly style and place things into the site with minimal tinkering. Compared to raw HTML and CSS, a UI framework like Bootstrap 5 expedited the design process.
