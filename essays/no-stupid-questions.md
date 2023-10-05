@@ -74,4 +74,4 @@ The user asking the question does a good job in his format. First off, the subje
 ## Conclusion:
 Yes, it is true; there are no stupid questions. However, do not expect to get the answers you want from those questions. Asking the right and “smart” questions is crucial in life and can be a lifesaver when it comes to difficult tasks. When you are asking a question, it takes another person's time and energy to help you, so make sure when you ask a question, make it a “smart” one.
 
-Source: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond
+Source: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
