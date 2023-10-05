@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 'A Restrained Freedom
+title: 'A Restrained Freedom'
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
