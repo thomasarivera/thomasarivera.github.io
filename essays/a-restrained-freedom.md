@@ -27,15 +27,16 @@ As previously mentioned, UI Frameworks like Bootstrap 5 can be limiting, but bec
 
 However, it is important to remember that not every problem can be solved with a single tool. Like any good professional, they need a diverse toolkit. UI frameworks like Bootstrap 5 are one of those essential tools, but they work best when complemented by the creative flair of raw HTML and CSS.
 
-
 ## Let’s Compare:
 As an example, I attempted to recreate a small portion of the popular online graphing calculator website Desmos in Bootstrap 5 with minimal CSS.
+
+<img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/1-real.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/4-bootstrap.png">
 
 Although it’s not one-to-one and doesn’t have all the fancy bells and whistles, my recreation was only done in a couple of hours. With Bootstrap 5, I was able to quickly style and place things into the site with minimal tinkering. Compared to raw HTML and CSS, a UI framework like Bootstrap 5 expedited the design process.
 
 ## Conclusion:
 In conclusion, raw HTML and CSS are like the first steps in any software engineer’s life. It is the foundation of web development and provides the groundwork for making an excellent website or application. UI frameworks, on the other hand, provide a simpler and faster method but put restrictions as to what you can do. There are pros and cons, but learning to work inside the box can help free your ideas and innovate.
 
-
-
+---
 Desmos Recreation Github: [e36-desmos](https://github.com/thomasarivera/e36-desmos)
