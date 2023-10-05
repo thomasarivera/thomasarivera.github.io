@@ -32,7 +32,8 @@ As an example, I attempted to recreate a small portion of the popular online gra
 
 <img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/1-real.png">
 <img width="500px" class="rounded float-start pe-4" src="../img/a-restrained-freedom/4-bootstrap.png">
-<br>
+
+### Analysis:
 Although it’s not one-to-one and doesn’t have all the fancy bells and whistles, my recreation was only done in a couple of hours. With Bootstrap 5, I was able to quickly style and place things into the site with minimal tinkering. Compared to raw HTML and CSS, a UI framework like Bootstrap 5 expedited the design process.
 
 ## Conclusion:
