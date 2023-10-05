@@ -6,8 +6,8 @@ title: 'No "Stupid" Questions?'
 date: 2023-09-06
 published: true
 labels:
-- Personal-Development
 - StackOverflow
+- Personal-Development
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/no-stupid-questions/img-no-stupid-question.jpeg">
@@ -68,10 +68,11 @@ After executing the command, I get this error message:
 I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h. I managed to locate the file on my machine.
 
 #### Analysis:
-
 The user asking the question does a good job in his format. First off, the subject title is straightforward and shows what the issue is. It is clear that the user is getting an error from Python and that a directory can not be found. In the question itself, the user informs readers on what they are attempting to do and what steps they have taken to get to. Furthermore, as a show of confidence, the user then explains how he already attempted to find a solution and even searched online. Questions like this are a good example of a “smart” question and the answers that follow show that. 
 
 ## Conclusion:
 Yes, it is true; there are no stupid questions. However, do not expect to get the answers you want from those questions. Asking the right and “smart” questions is crucial in life and can be a lifesaver when it comes to difficult tasks. When you are asking a question, it takes another person's time and energy to help you, so make sure when you ask a question, make it a “smart” one.
+
+---
 
 Source: [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)

@@ -6,7 +6,8 @@ title: 'Coding Order'
 date: 2023-09-21
 published: true
 labels:
-- Personal-Development
+- IntelliJ
+- ESLint
 - Coding
 ---
 
