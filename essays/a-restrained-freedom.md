@@ -36,6 +36,6 @@ Although it’s not one-to-one and doesn’t have all the fancy bells and whistl
 ## Conclusion:
 In conclusion, raw HTML and CSS are like the first steps in any software engineer’s life. It is the foundation of web development and provides the groundwork for making an excellent website or application. UI frameworks, on the other hand, provide a simpler and faster method but put restrictions as to what you can do. There are pros and cons, but learning to work inside the box can help free your ideas and innovate.
 
----
+
 
 Desmos Recreation Github: [e36-desmos](https://github.com/thomasarivera/e36-desmos)
