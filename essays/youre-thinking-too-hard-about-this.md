@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 'You're Thinking Too Hard About This'
+title: "You're Thinking Too Hard About This"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
 published: true
