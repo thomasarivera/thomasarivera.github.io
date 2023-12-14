@@ -54,7 +54,7 @@ Vendors can order and rent out needed containers. These containers are then lent
 <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
     <img src="../img/sustainer/vendor-order-form.png" alt="Vendor container list page." width="50%">
 </div>
-    <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
+<div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
     <img src="../img/sustainer/vendor-scan.png" width="400px" alt="scanner for user">
 </div>
 
