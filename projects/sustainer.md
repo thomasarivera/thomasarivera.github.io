@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rock-paper-scissors/rock-paper-scissors-hand.jpeg
+image: img/sustainer/pexels-mall-maeder-802221.jpg
 title: "Sustainer"
 date: 2023
 published: true
