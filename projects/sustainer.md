@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sustainer/pexels-mall-maeder-802221.jpg
+image: img/sustainer/pexels-mali-maeder-802221.jpg
 title: "Sustainer"
 date: 2023
 published: true
