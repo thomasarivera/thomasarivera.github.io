@@ -16,13 +16,15 @@ summary: "A web app to order reusable takeout containers for events."
 <img class="img-fluid" src="../img/sustainer/landing-page.png" alt="Landing page of Sustainer" width="50%">
 
 ## Hawai'i Annual Code Challenge:
-The Hawai'i Annual Code Challenge (HACC) is a hackathon started in 2025 by Gov. David Ige. It encourages civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient, and open government. Over three weeks, the HACC generates proofs-of-concept by students, amateurs, and professional coders to benefit community and State agencies.
+The Hawai'i Annual Code Challenge (HACC) is a hackathon started in 2015 by Gov. David Ige. It encourages civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient, and open government. Over three weeks, the HACC generates proofs-of-concept by students, amateurs, and professional coders to benefit community and State agencies.
 
 At the 2023 Hawai'i Annual Code Challenge, my team, Bit By Bit, participated in the event and tackled the Reusable Takeout Program App challenge. Our team was proudly chosen as a HACC finalist and presented at the University of Hawai'i West O'ahu.
 
 <img src="../img/sustainer/hacc-presentaion.jpeg" alt="Jaren and Thomas present Sustainer to 2023 Hawaii Annual Code Challange." width="50%">
 
 Jaren Pinera and Thomas Rivera presenting Sustainer to the 2023 Hawai'i Annual Code Challenge at the University of Hawai'i West O'ahu.
+
+<br>
 
 ## Problem Description:
 Single-use takeout containers and food wrappers make up a significant portion—up to one-third—of the debris discovered along Hawai'i's shorelines. Currently, a reusable takeout container program, Full Cycle Takeout, by Zero Waste Hawai'i, aims to solve this problem by offering vendors and customers the ability to rent out containers. However, between 20% and 30% of reusable containers are not returned, making the program unsustainable financially and for the planet. With more containers needing to be replaced, Zero Waste Hawai'i is looking for a program that incentivizes users to return containers at large, fast-moving events.
@@ -32,13 +34,15 @@ Sustainer is a reusable container tracking app that assists users, vendors, and 
 
 <img src="../img/sustainer/qr-code-generator.png" alt="User QR code." width="50%">
 
+For further detailing, plese visit the <a href="https://sus-tainer.github.io/">Sustainer Organization Page</a>
+
 ## Tracking Containers:
 Each container has a unique QR code for tracking in the Sustainer database. To lend and transfer container ownership, scan the user's ID and QR codes. Tracking is essential for ensuring the return of items and user incentives.
 
 
 
 ## User Roles:
-### Admin:
+#### Admin:
 Zero Waste Hawaii can manage containers and their ownership. This includes adding new containers, returning them, charging users, and statistics view.
 
 <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
@@ -48,7 +52,7 @@ Zero Waste Hawaii can manage containers and their ownership. This includes addin
     <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="400px">
 </div>
 
-### Vendor:
+#### Vendor:
 Vendors can order and rent out needed containers. These containers are then lent out to the users.
 
 <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
@@ -58,7 +62,7 @@ Vendors can order and rent out needed containers. These containers are then lent
     <img src="../img/sustainer/vendor-scan.png" width="400px" alt="scanner for user">
 </div>
 
-### User:
+#### User:
 Users can sign up, input payment cards, and get their ID QR codes. These QR codes transfer ownership of the container to the user.
 
 <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
