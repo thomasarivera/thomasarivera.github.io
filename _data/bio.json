@@ -6,29 +6,28 @@
     "email": "thomas5info@gmail.com",
     "phone": "808-292-9745",
     "website": "http://thomasarivera.com",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "706 Hoopai St", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in fall, 2024.",
+
     "profiles": [
       { "network": "github", "username": "thomasarivera", "url": "http://github.com/thomasarivera" },
-      { "network": "linkedin", "username": "Thomas Rivera", "url": "https://www.linkedin.com/in/thomasarivera/" },
+      { "network": "linkedin", "username": "Thomas Rivera", "url": "https://www.linkedin.com/in/thomasarivera/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Computer Networking" },
-    { "name": "Software Development" },
-    { "name": "Gardening" },
-    { "name": "3D Graphics" },
-    {"name": "Video Editing"}
+    { "name": "Full Stack Software Development" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
+    { "name": "Cybersecurity" },
+    { "name": "Computer Networking" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "React Bootstrap", "Meteor JS", "Javascript", "Java", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Windows 10", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Ubuntu Server", "Windows 10", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -39,7 +38,7 @@
       "startDate": "2023-01-10",
       "endDate": "Present",
       "courses": [ 
-        "ICS 321"
+        "ICS 321", "ICS 314", "ICS 311"
       ]
     },
     {
@@ -83,7 +82,7 @@
       "date": "2017-2021",
       "awarder": "Damien Memorial School",
       "summary": "Awarded to students who have 4.0 and higher GPA."
-    },
+    }
   ],
   "references": [
     {
