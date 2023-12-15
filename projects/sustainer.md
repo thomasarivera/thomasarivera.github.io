@@ -27,14 +27,14 @@ Jaren Pinera and Thomas Rivera presenting Sustainer to the 2023 Hawai'i Annual C
 <br>
 
 ## Problem Description:
-Single-use takeout containers and food wrappers make up a significant portion—up to one-third—of the debris discovered along Hawai'i's shorelines. Currently, a reusable takeout container program, Full Cycle Takeout, by Zero Waste Hawai'i, aims to solve this problem by offering vendors and customers the ability to rent out containers. However, between 20% and 30% of reusable containers are not returned, making the program unsustainable financially and for the planet. With more containers needing to be replaced, Zero Waste Hawai'i is looking for a program that incentivizes users to return containers at large, fast-moving events.
+Single-use takeout containers and food wrappers make up a significant portion—up to one-third—of the debris discovered along Hawai'i's shorelines. Currently, a reusable takeout container program, Full Cycle Takeout, by Zero Waste Hawai'i, aims to solve this problem by offering vendors and customers the ability to rent out containers. However, between 20% and 30% of reusable containers are not returned, making the program unsustainable financially and for the planet. With more containers needing to be replaced, Zero Waste Hawai'i is looking for a program that incentives users to return containers at large, fast-moving events.
 
 ## Our Solution:
 Sustainer is a reusable container tracking app that assists users, vendors, and the non-profit Zero Waste O'ahu in staying accountable for the return of reusable containers at large events. It uses monetary incentives for users to return reusable containers. At events, users will use their phones to sign up for Sustainer, go to their preferred food vendor, scan their unique ID QR code, enjoy their delicious food, and return it! Users are charged $5 per missing container to keep them accountable.
 
 <img src="../img/sustainer/qr-code-generator.png" alt="User QR code." width="50%">
 
-For further detailing, plese visit the <a href="https://sus-tainer.github.io/">Sustainer Organization Page</a>
+For further detailing, please visit the <a href="https://sus-tainer.github.io/">Sustainer Organization Page</a>
 
 ## Tracking Containers:
 Each container has a unique QR code for tracking in the Sustainer database. To lend and transfer container ownership, scan the user's ID and QR codes. Tracking is essential for ensuring the return of items and user incentives.
