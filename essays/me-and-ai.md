@@ -16,46 +16,46 @@ With the release of artificial intelligence (AI) to the masses, concerns about h
 ## Personal Experience With AI:
 During my time in my software engineering class at the University of Hawaii at Manoa, I tried AI in multiple situations. Here are some examples and the results I got:
 
-### 1. Experience Work Out of The Day (WOD):
+#### 1. Experience Work Out of The Day (WOD):
 When learning the material in preparation for the class WOD, ChatGPT has been helpful in troubleshooting my issues. Sometimes, Googling can be frustrating when you can’t find the exact solution, but because ChatGPT can be fed your code, the AI is given context as to what the problem is.
 
-### 2. In-Class Practice WODs:
+#### 2. In-Class Practice WODs:
 I tried using ChatGPT by copying the problem. From this, I was able to learn new methods and solutions.
 
-### 3. In-Class WODs:
+#### 3. In-Class WODs:
 ChatGPT was a last resort method when I could not get my solution to work before time was up. When stumped, I simply copied what I got so far along with the problem. ChatGPT would then finish my code for me.
 
-### 4. Essays:
+#### 4. Essays:
 Although ChatGPT is a great writer, it is also generic. As a result, I avoid using AI and rely on my ability to be creative. However, when I encounter writers block, AI can help me break through it by providing some ideas.
 
-### 5. Final Project:
+#### 5. Final Project:
 Learning to implement a QR code generator and scanner was confusing, with Google searches providing outdated information. ChatGPT was able to recommend and instruct me on how to download a library and implement it.
 
-### 6. Learning A Concept / Tutorial:
+#### 6. Learning A Concept / Tutorial:
 When going through documentation, I tried copying it and prompting the AI to summarize it. It is helpful when learning but leaves a lot of details out that could be useful.
 
-### 9. Answering A Question In Class or In Discord:
+#### 9. Answering A Question In Class or In Discord:
 I never thought of trying this since I always tried to answer to the best of my ability.
 
-### 8. Asking or Answering A Smart-question:
+#### 8. Asking or Answering A Smart-question:
 ChatGPT is helpful in formulating a question when I can’t quite word it correctly. However, it’s also very useful in answering my questions, and as a result, I rarely ask questions.
 
-### 9. Coding Example:
+#### 9. Coding Example:
 For my final project, I asked ChatGPT to write me an example code for my QR code generator. It was able to provide some code; however, some parts were out of date due to the data it was trained on.
 
-### 10. Explaining Code:
+#### 10. Explaining Code:
 After plugging in my code, ChatGPT is able to explain what the code does step by step and even makes suggestions where there could be improvements.
 
-### 11. Writing Code:
+#### 11. Writing Code:
 Both ChatGPT and GitHub co-pilot are great at writing code. ChatGPT is strongest due to it having context for the problem. I can simply prompt the problem, and the AI does its best to solve it, with success most of the time. When it comes to GitHub co-pilot, its coding knowledge is more up-to-date compared to ChatGPT and is helpful in code completion and formatting. However, because it has no context of the problem, co-pilot struggles to generate the correct code from scratch.  
 
-### 12. Documenting Code:
+#### 12. Documenting Code:
 ChatGPT is already great at explaining code, so it's also fair to say it’s good at documenting code. I have tried this when debugging a QR code generator. I asked it to write comments above what each function does, and it did it quickly.
 
-### 13. Quality Assurance:
+#### 13. Quality Assurance:
 ChatGPT and GitHub co-pilot have been extremely helpful in keeping my code clean and clear. Co-pilot gives recommendations as to how to finish a block of code and attempts to keep it in your style. ChatGPT can quickly find mistakes, such as typos or incorrect use, and fix them. It also helpfully provides an explanation of what the error was and how to fix it.
 
-### 14. Discovering New Technologies:
+#### 14. Discovering New Technologies:
 With more information always being published to the web, search engines have started to feel useless where my searches result in outdated or incorrect information. After some time using ChatGPT and experimenting with what it knows, AI has started to become my goto for searching technical information. Not only does it directly give me the information, it’s also capable of providing examples and implementation. ChatGPT feels like your own personal Wikipedia that can search its database using regular language rather than search terms. For example, when looking for a QR code library, I simply asked what it recommended I use for a meteor.js application. It then promptly provided me with a list and instructions on how to use them. Using a search engine would most likely not provide me with relevant information.
 
 ## Impact On Learning and Understanding:
