@@ -4,7 +4,7 @@ type: essay
 title: "Redefining Limits"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - JavaScript
   - Learning
