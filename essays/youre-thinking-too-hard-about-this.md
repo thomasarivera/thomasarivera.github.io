@@ -20,52 +20,52 @@ In software engineering, these solutions to common occurrences are called design
 ## Blueprints:
 While coding and developing software, I have knowingly and unknowingly followed some design patterns.
 
-### Singleton Pattern:
+#### Singleton Pattern:
 Singleton Pattern ensures that a class has only one instance and provides a global access point to that instance. This is particularly useful when exactly one object is needed to coordinate actions across the system, like a configuration manager or a logging service. The pattern restricts the instantiation of a class to a single instance and provides a method for accessing that instance globally. This ensures that the same instance is used throughout the application, promoting efficient resource usage and centralized control over the singleton's functionality.
 
-### Prototype Pattern:
+#### Prototype Pattern:
 The Prototype Pattern involves creating new objects by copying an existing object, known as the prototype. Instead of creating objects from scratch, the pattern allows for the creation of new instances by cloning an existing object.
 
-### Module Pattern:
+#### Module Pattern:
 The Module Pattern is a structural design pattern that encapsulates a set of functions and variables into a module, providing a way to organize and isolate code. This helps prevent naming conflicts and creates a straightforward interface for interacting with the module's functionality.
 
-### Observer Pattern:
+#### Observer Pattern:
 The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. This pattern is commonly used for distributed event-handling systems. It allows a subject to notify multiple observers of state changes, promoting loose coupling between the subject and its observers.
 
-### Static Import:
+#### Static Import:
 Static Import is a programming pattern that allows static members (fields and methods) of a class without qualifying them with the class name. This enhances code readability by reducing verbosity and being concise. It is handy when certain static members are frequently used in a class, eliminating the need to reference the class name repetitively.
 
-### Compound Pattern:
+#### Compound Pattern:
 The Compound Pattern combines multiple design patterns to solve a complex problem. By integrating smaller, individual patterns, a compound pattern addresses intricate scenarios in a cohesive and organized manner. This approach leverages the strengths of different patterns to provide a comprehensive solution, ensuring flexibility and maintainability in complex software systems.
 
-### Container/Presentational Pattern:
+#### Container/Presentational Pattern:
 The Container/Presentational Pattern, often associated with front-end development, separates components into two categories: containers and presentational components. Containers manage state and business logic, while presentational components concern UI and user interactions. This pattern promotes a clear separation of concerns, making maintaining and scaling front-end applications easier. It enhances code readability and facilitates collaboration among developers working on different aspects of the application.
 
 ## What Has Design Patterns Done For Me?:
 Through school and natural learning, I have adopted some design patterns into my work. It brings many positives and negatives.
 
 ## Pros:
-### Reusability: 
+#### Reusability: 
 Design patterns promote reusability by providing tested and proven solutions to common problems. Developers can leverage these patterns to address recurring issues consistently and efficiently, saving time and effort in the development process.
-### Scalability:
+#### Scalability:
 Design patterns contribute to scalable software architecture. Developers create systems that can easily accommodate growth and changing requirements by following established patterns. This scalability is crucial in today's dynamic and ever-evolving technological landscape.
-### Maintainability:
+#### Maintainability:
 Adopting design patterns often leads to more maintainable code. Since patterns naturally have a structured approach, developers can easily understand and modify code. This results in improved collaboration among teams and facilitates ongoing maintenance.
-### Abstraction and Encapsulation:
+#### Abstraction and Encapsulation:
 Design patterns encourage abstraction and encapsulation, essential principles in object-oriented programming. It helps in creating modular and loosely coupled systems, where changes to one part of the codebase have minimal impact on other parts.
-### Problem Solving:
+#### Problem Solving:
 Design patterns serve as proven solutions to common programming challenges. They encapsulate best practices and industry standards, allowing developers to tackle problems confidently, especially when dealing with complex scenarios.
 
 ## Cons:
-### Overuse and Misuse:
+#### Overuse and Misuse:
 A potential downside is the overuse or misuse of design patterns. Developers may apply patterns indiscriminately, even when they don't align with the project's specific needs. This can lead to unnecessary complexity and reduced code readability.
-### Learning Curve:
+#### Learning Curve:
 There can be a learning curve for newcomers to software development or those unfamiliar with design patterns. Understanding when and how to apply each pattern requires experience and a solid grasp of software design principles. This learning curve can be a barrier for some developers.
-### Rigidity:
+#### Rigidity:
 In some cases, adhering strictly to design patterns may result in a rigid system that is challenging to modify. Over-reliance on patterns can hinder flexibility when faced with unique or evolving requirements that may need to fit better with the chosen patterns.
-### Performance Concerns:
+#### Performance Concerns:
 If applied without consideration, certain design patterns may introduce performance overhead. For example, using a pattern that involves a high degree of indirection might impact the system's speed, particularly in performance-critical applications.
-### Overhead in Simple Projects:
+#### Overhead in Simple Projects:
 In small or straightforward projects, applying elaborate design patterns may introduce unnecessary complexity. Simple solutions might be more appropriate in such cases, and introducing patterns could lead to code bloat and increased development time.
 
 ## Conclusion:
