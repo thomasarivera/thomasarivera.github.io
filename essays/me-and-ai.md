@@ -23,10 +23,10 @@ When learning the material in preparation for the class WOD, ChatGPT has been he
 I tried using ChatGPT by copying the problem. From this, I was able to learn new methods and solutions.
 
 ### 3. In-Class WODs:
-ChatGPT was a last resort method when I couldn’t get my solution to work before time was up. When stumped, I simply copied what I got so far along with the problem. ChatGPT would then finish my code for me.
+ChatGPT was a last resort method when I could not get my solution to work before time was up. When stumped, I simply copied what I got so far along with the problem. ChatGPT would then finish my code for me.
 
 ### 4. Essays:
-Although ChatGPT is a great writer, it is also generic. As a result, I avoid using AI and rely on my ability to be creative. However, when I become blocked, AI can help me break through it by providing some ideas.
+Although ChatGPT is a great writer, it is also generic. As a result, I avoid using AI and rely on my ability to be creative. However, when I encounter writers block, AI can help me break through it by providing some ideas.
 
 ### 5. Final Project:
 Learning to implement a QR code generator and scanner was confusing, with Google searches providing outdated information. ChatGPT was able to recommend and instruct me on how to download a library and implement it.
@@ -59,7 +59,7 @@ ChatGPT and GitHub co-pilot have been extremely helpful in keeping my code clean
 With more information always being published to the web, search engines have started to feel useless where my searches result in outdated or incorrect information. After some time using ChatGPT and experimenting with what it knows, AI has started to become my goto for searching technical information. Not only does it directly give me the information, it’s also capable of providing examples and implementation. ChatGPT feels like your own personal Wikipedia that can search its database using regular language rather than search terms. For example, when looking for a QR code library, I simply asked what it recommended I use for a meteor.js application. It then promptly provided me with a list and instructions on how to use them. Using a search engine would most likely not provide me with relevant information.
 
 ## Impact On Learning and Understanding:
-The introduction of the internet already brought people all the information of the world to their fingertips, but AI takes that further with ChatGPT taking that information and converting it into a simple and easy-to-understand format all in one place. The ability to learn new things has never been easier, but it does bring in ethical concerns. Is what is generated true? Because the AIs such as ChatGPT are trained off the internet, not all information is correct. It creates some distrust for its answer; however, any 3rd party source should be viewed as the same. This is especially true when using AI as a source for learning. I have tried to use AI when learning how to implement a function. The results were amazing as it quickly provided me with easy-to-follow instructions. One downside to this is it didn’t allow me to struggle and learn as much. Furthermore, as mentioned before, the reliability of the information generated is not solid as demonstrated by the minor errors I got from the generated code.
+The introduction of the internet already brought people all the information of the world to their fingertips, but AI takes that further with ChatGPT taking that information and converting it into a simple and easy-to-understand format all in one place. The ability to learn new things has never been easier, but it does bring in ethical concerns. Is what is generated true? Because the AIs such as ChatGPT are trained off the internet, not all information is correct. It creates some distrust for its answer; however, any 3rd party source should be viewed as the same. This is especially true when using AI as a source for learning. I have tried to use AI when learning how to implement a function. The results were amazing as it quickly provided me with easy-to-follow instructions. One downside to this is it did not allow me to struggle and learn as much. As mentioned before, the reliability of the information generated is not solid: demonstrated by the minor errors from the generated code.
 
 
 ## Practical Applications:
@@ -71,7 +71,7 @@ While developing my application for my Software Engineering class, AI played an 
 AI is such an amazing technology and opens the door to many possibilities for automation, ease of use, and learning. I found that AI is very helpful when it comes to learning new coding languages. This is because it is able to translate code to another language, making it easier to see where nuances differ or are similar.
 
 ## Comparative Analysis:
-Traditional teaching methods are always a solid choice, that’s because it’s traditional. However, AI has the chance to enhance learning with the ability to answer unique questions and provide solutions. On the other had, this may not be the best as students may become reliant on it. Traditional teaching methods hellps foster critical thinking and a deeper understanding of the topic.
+Traditional teaching methods are always a solid choice, that’s because it’s traditional. However, AI has the chance to enhance learning with the ability to answer unique questions and provide solutions. On the other had, this may not be the best as students may become reliant on it. Traditional teaching methods helps foster critical thinking and a deeper understanding of the topic.
 
 ## Future Considerations:
 As AI becomes more advanced, there is no doubt that people who want to get into Software Engineering need to learn to use AI. With tools like ChatGPT that allow for creating a skeleton of a project and GitHub co-pilot’s ability to generate code, the development will be faster than ever. Those who don’t use AI will be left is the dust. In the future, software engineering education should include how to prompt AIs and how to use it responsibly.
