@@ -45,11 +45,13 @@ Each container has a unique QR code for tracking in the Sustainer database. To l
 #### Admin:
 Zero Waste Hawaii can manage containers and their ownership. This includes adding new containers, returning them, charging users, and statistics view.
 
-<div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
-    <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="400px">
+<div class="container">
+<div class="justify-content-center text-center p-4">
+    <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="400px" class="p-1">
 </div>
 <div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
-    <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="400px">
+    <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="400px" class="p-1">
+</div>
 </div>
 
 #### Vendor:
