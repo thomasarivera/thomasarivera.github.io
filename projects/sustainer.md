@@ -47,19 +47,19 @@ Zero Waste Hawaii can manage containers and their ownership. This includes addin
 
 <div class="container">
 <div class="text-center p-4">
-    <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="400px" class="p-1">
-    <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="400px" class="p-1">
+    <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="500px" class="p-1">
+    <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="500px" class="p-1">
 </div>
 </div>
 
 #### Vendor:
 Vendors can order and rent out needed containers. These containers are then lent out to the users.
 
-<div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
-    <img src="../img/sustainer/vendor-order-form.png" alt="Vendor container list page." width="50%">
-</div>
-<div class="justify-content-center text-center p-4" style="padding-top: 5px; padding-bottom: 50px">
-    <img src="../img/sustainer/vendor-scan.png" width="400px" alt="scanner for user">
+<div class="container">
+    <div class="text-center p-4">
+        <img src="../img/sustainer/vendor-order-form.png" alt="Vendor container list page." width="500px">
+        <img src="../img/sustainer/vendor-scan.png" width="500px" alt="scanner for user">
+    </div>
 </div>
 
 #### User:
