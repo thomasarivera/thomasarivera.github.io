@@ -32,7 +32,7 @@ Single-use takeout containers and food wrappers make up a significant portion—
 ## Our Solution:
 Sustainer is a reusable container tracking app that assists users, vendors, and the non-profit Zero Waste O'ahu in staying accountable for the return of reusable containers at large events. It uses monetary incentives for users to return reusable containers. At events, users will use their phones to sign up for Sustainer, go to their preferred food vendor, scan their unique ID QR code, enjoy their delicious food, and return it! Users are charged $5 per missing container to keep them accountable.
 
-<img src="../img/sustainer/qr-code-generator.png" alt="User QR code." width="400px">
+<img src="../img/sustainer/qr-code-generator.png" alt="User QR code." width="350px">
 
 For further detailing, please visit the <a href="https://sus-tainer.github.io/">Sustainer Organization Page</a>
 
@@ -46,10 +46,10 @@ Each container has a unique QR code for tracking in the Sustainer database. To l
 Zero Waste Hawaii can manage containers and their ownership. This includes adding new containers, returning them, charging users, and statistics view.
 
 <div class="container">
-<div class="text-center p-4">
-    <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="500px" class="p-1">
-    <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="500px" class="p-1">
-</div>
+    <div class="text-center p-4">
+        <img src="../img/sustainer/container-list-page.png" alt="Admin container list page." width="600px" class="p-1">
+        <img src="../img/sustainer/add-container-page.png" alt="Admin container list page." width="600px" class="p-1">
+    </div>
 </div>
 
 #### Vendor:
@@ -57,7 +57,7 @@ Vendors can order and rent out needed containers. These containers are then lent
 
 <div class="container">
     <div class="text-center p-4">
-        <img src="../img/sustainer/vendor-order-form.png" alt="Vendor container list page." width="600px">
+        <img src="../img/sustainer/vendor-order-form.png" alt="Vendor container list page." width="700px">
         <img src="../img/sustainer/vendor-scan.png" width="250px" alt="scanner for user">
     </div>
 </div>
