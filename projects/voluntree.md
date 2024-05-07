@@ -37,10 +37,10 @@ Users can freely browse available events without needing an account, search by k
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="750px" class="p-1">
+        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/EventPage.png" alt="Event Card" width="750px" class="p-1">
+        <img src="../img/voluntree/EventPage.png" alt="Event Card" width="750px" class="img-fluid p-1">
     </div>
 </div>
 
@@ -49,13 +49,13 @@ Empower your organization's impact with Voluntree. Seamlessly create and manage 
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/OrgDashboard1.png" alt="Organization Page" width="750px" class="p-1">
+        <img src="../img/voluntree/OrgDashboard1.png" alt="Organization Page" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/OrgDashboard2.png" alt="Organization Events" width="750px" class="p-1">
+        <img src="../img/voluntree/OrgDashboard2.png" alt="Organization Events" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="p-1">
+        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="img-fluid p-1">
     </div>
 </div>
 
@@ -68,10 +68,10 @@ Volunteers effortlessly log their hours using a personalized QR code. When volun
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/LogHours.png" alt="QR Code" width="750px" class="p-1">
+        <img src="../img/voluntree/LogHours.png" alt="QR Code" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="p-1">
+        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="img-fluid p-1">
     </div>
 </div>
 
@@ -80,10 +80,10 @@ Finding events is made fast and simple through the intuitive design of the Find 
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="600px" class="p-1">
+        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="600px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/FindEvents2.png" alt="Search Page" width="600px" class="p-1">
+        <img src="../img/voluntree/FindEvents2.png" alt="Search Page" width="600px" class="img-fluid p-1">
     </div>
 </div>
 
@@ -92,20 +92,20 @@ Admins wield comprehensive control over the site's operations through the intuit
 
 <div class="container">
 <div class="row">
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
-        <img src="../img/voluntree/AdminDashboard.png" alt="Admin Dashboard" width="750px" class="p-1">
+        <img src="../img/voluntree/AdminDashboard.png" alt="Admin Dashboard" width="750px" class="img-fluid p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/AdminEventModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
 </div>
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
-        <img src="../img/voluntree/AdminEventModeration.png" alt="Admin Events" width="750px" class="p-1">
+        <img src="../img/voluntree/AdminOrganizationModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/AdminOrganizationModeration.png" alt="Admin Events" width="750px" class="p-1">
-    </div>
-    <div class="text-center">
-        <img src="../img/voluntree/AdminUserModeration.png" alt="Admin Events" width="750px" class="p-1">
+        <img src="../img/voluntree/AdminUserModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
         <img src="../img/voluntree/AdminReviewModeration.png" alt="Admin Events" width="750px" class="p-1">
