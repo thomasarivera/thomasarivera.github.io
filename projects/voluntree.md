@@ -92,18 +92,20 @@ Admins wield comprehensive control over the site's operations through the intuit
 
 <div class="container">
 <div class="row">
-<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
         <img src="../img/voluntree/AdminDashboard.png" alt="Admin Dashboard" width="750px" class="img-fluid p-1">
     </div>
+</div>
+<div class="row">
+<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
         <img src="../img/voluntree/AdminEventModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
-</div>
-<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
         <img src="../img/voluntree/AdminOrganizationModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
+</div>
+<div class="col-sm-12 col-md-6 px-1">
     <div class="text-center">
         <img src="../img/voluntree/AdminUserModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>

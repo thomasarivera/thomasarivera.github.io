@@ -48,6 +48,6 @@ a {
 }
 
 img {
-  border-radius: 3%;
+  border-radius: 20px;
   box-shadow: 6px 6px 6px 0 rgba(0, 0, 0, 0.10);
 }
