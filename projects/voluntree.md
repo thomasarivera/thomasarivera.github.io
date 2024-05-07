@@ -37,10 +37,10 @@ Users can freely browse available events without needing an account, search by k
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="600px" class="p-1">
+        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="750px" class="p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/EventPage.png" alt="Event Card" width="600px" class="p-1">
+        <img src="../img/voluntree/EventPage.png" alt="Event Card" width="750px" class="p-1">
     </div>
 </div>
 
@@ -85,14 +85,19 @@ Finding events is made fast and simple through the intuitive design of the Find 
     <div class="text-center">
         <img src="../img/voluntree/FindEvents2.png" alt="Search Page" width="600px" class="p-1">
     </div>
+</div>
 
 #### Admin Site Management
 Admins wield comprehensive control over the site's operations through the intuitive dashboard interface. This centralized hub provides access to vital site statistics, highlights recently published events, and offers convenient shortcuts to key site management functionalities. Admins possess the authority to edit or delete various site components, including events, organizations, users, and reviews. This robust suite of tools enables admins to maintain the site's integrity, ensuring smooth operations and facilitating timely interventions when necessary.
 
 <div class="container">
+<div class="row">
+<div class="col-sm-12 col-md-6">
     <div class="text-center">
         <img src="../img/voluntree/AdminDashboard.png" alt="Admin Dashboard" width="750px" class="p-1">
     </div>
+</div>
+<div class="col-sm-12 col-md-6">
     <div class="text-center">
         <img src="../img/voluntree/AdminEventModeration.png" alt="Admin Events" width="750px" class="p-1">
     </div>
@@ -105,6 +110,8 @@ Admins wield comprehensive control over the site's operations through the intuit
     <div class="text-center">
         <img src="../img/voluntree/AdminReviewModeration.png" alt="Admin Events" width="750px" class="p-1">
     </div>
+</div>
+</div>
 </div>
 
 ## What Went Well:
