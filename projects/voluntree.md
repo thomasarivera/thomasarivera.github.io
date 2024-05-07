@@ -110,7 +110,7 @@ Admins wield comprehensive control over the site's operations through the intuit
         <img src="../img/voluntree/AdminUserModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/AdminReviewModeration.png" alt="Admin Events" width="750px" class="p-1">
+        <img src="../img/voluntree/AdminReviewModeration.png" alt="Admin Events" width="750px" class="img-fluid p-1">
     </div>
 </div>
 </div>
