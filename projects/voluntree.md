@@ -6,7 +6,6 @@ image: img/voluntree/voluntreeLogo.png
 title: "Voluntree"
 # All dates must be YYY-MM-DD format!
 date: 2024-05-06
-published: false
 labels:
     - Javascript
     - React.js
