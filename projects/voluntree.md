@@ -17,7 +17,7 @@ summary: " A volunteer management system that matches willing volunteers with no
 ---
 
 <div class="text-center p-4">
-<img width="600px" class="img-fluid" src="../img/voluntree/Landing1.png" alt="Voluntree Landing Page">
+<img width="1000px" class="img-fluid" src="../img/voluntree/Landing1.png" alt="Voluntree Landing Page">
 </div>
 
 ```Language(s):``` Javascript, HTML, CSS
@@ -49,13 +49,13 @@ Empower your organization's impact with Voluntree. Seamlessly create and manage 
 
 <div class="container">
     <div class="text-center">
-        <img src="../img/voluntree/OrgDashboard1.png" alt="Organization Page" width="600px" class="p-1">
+        <img src="../img/voluntree/OrgDashboard1.png" alt="Organization Page" width="750px" class="p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/OrgDashboard2.png" alt="Organization Events" width="600px" class="p-1">
+        <img src="../img/voluntree/OrgDashboard2.png" alt="Organization Events" width="750px" class="p-1">
     </div>
     <div class="text-center">
-        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="600px" class="p-1">
+        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="p-1">
     </div>
 </div>
 
@@ -66,11 +66,46 @@ Acting as the project lead, I helped develop ideas and features for Voluntree. I
 #### User/Organization Hour Recording
 Volunteers effortlessly log their hours using a personalized QR code. When volunteers attend an event, organizations simply scan their unique QR code to record their participation hours. This streamlined process ensures efficient tracking and management of volunteer hours.
 
+<div class="container">
+    <div class="text-center">
+        <img src="../img/voluntree/LogHours.png" alt="QR Code" width="750px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="750px" class="p-1">
+    </div>
+</div>
+
 #### Event Search
 Finding events is made fast and simple through the intuitive design of the Find Events page. By default, users are presented with the latest events, ensuring they stay up-to-date with the most relevant opportunities. Additionally, users can easily discover events using a fuzzy search feature, allowing them to search by event names, locations, organizations, or descriptions easily. A filter option is available for further refinement, enabling users to sort events by categories such as "Environmental Conservation," thus tailoring their search to precisely match their interests and preferences.
 
+<div class="container">
+    <div class="text-center">
+        <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="600px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/FindEvents2.png" alt="Search Page" width="600px" class="p-1">
+    </div>
+
 #### Admin Site Management
 Admins wield comprehensive control over the site's operations through the intuitive dashboard interface. This centralized hub provides access to vital site statistics, highlights recently published events, and offers convenient shortcuts to key site management functionalities. Admins possess the authority to edit or delete various site components, including events, organizations, users, and reviews. This robust suite of tools enables admins to maintain the site's integrity, ensuring smooth operations and facilitating timely interventions when necessary.
+
+<div class="container">
+    <div class="text-center">
+        <img src="../img/voluntree/AdminDashboard.png" alt="Admin Dashboard" width="750px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/AdminEventModeration.png" alt="Admin Events" width="750px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/AdminOrganizationModeration.png" alt="Admin Events" width="750px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/AdminUserModeration.png" alt="Admin Events" width="750px" class="p-1">
+    </div>
+    <div class="text-center">
+        <img src="../img/voluntree/AdminReviewModeration.png" alt="Admin Events" width="750px" class="p-1">
+    </div>
+</div>
 
 ## What Went Well:
 Collaborative teamwork was the cornerstone of Voluntree's development. Despite the challenges posed by remote work, our team's commitment to effective communication ensured success. We commenced by establishing a clear plan and shared vision, fostering cohesion and understanding among all members. This strategic approach streamlined our workflow, facilitating rapid development with minimal confusion or setbacks.
