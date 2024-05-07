@@ -16,8 +16,6 @@ labels:
 summary: " A volunteer management system that matches willing volunteers with nonprofits, and other organizations."
 ---
 
-# Voluntree
-
 <div class="text-center p-4">
 <img width="600px" class="img-fluid" src="../img/voluntree/Landing1.png" alt="Voluntree Landing Page">
 </div>
@@ -40,6 +38,8 @@ Users can freely browse available events without needing an account, search by k
 <div class="container">
     <div class="text-center">
         <img src="../img/voluntree/FindEvents1.png" alt="Search Page" width="600px" class="p-1">
+    </div>
+    <div class="text-center">
         <img src="../img/voluntree/EventPage.png" alt="Event Card" width="600px" class="p-1">
     </div>
 </div>
@@ -50,7 +50,11 @@ Empower your organization's impact with Voluntree. Seamlessly create and manage 
 <div class="container">
     <div class="text-center">
         <img src="../img/voluntree/OrgDashboard1.png" alt="Organization Page" width="600px" class="p-1">
+    </div>
+    <div class="text-center">
         <img src="../img/voluntree/OrgDashboard2.png" alt="Organization Events" width="600px" class="p-1">
+    </div>
+    <div class="text-center">
         <img src="../img/voluntree/RecordHours.png" alt="Event recording hours" width="600px" class="p-1">
     </div>
 </div>
@@ -68,12 +72,12 @@ Finding events is made fast and simple through the intuitive design of the Find 
 #### Admin Site Management
 Admins wield comprehensive control over the site's operations through the intuitive dashboard interface. This centralized hub provides access to vital site statistics, highlights recently published events, and offers convenient shortcuts to key site management functionalities. Admins possess the authority to edit or delete various site components, including events, organizations, users, and reviews. This robust suite of tools enables admins to maintain the site's integrity, ensuring smooth operations and facilitating timely interventions when necessary.
 
-What Went Well:
+## What Went Well:
 Collaborative teamwork was the cornerstone of Voluntree's development. Despite the challenges posed by remote work, our team's commitment to effective communication ensured success. We commenced by establishing a clear plan and shared vision, fostering cohesion and understanding among all members. This strategic approach streamlined our workflow, facilitating rapid development with minimal confusion or setbacks.
 
 Despite the limited time constraints, our team successfully developed a web app that addressed a wide range of customer requirements. By prioritizing tasks and focusing on the most critical features, we maximized our productivity and delivered a comprehensive solution within the allocated timeframe. Throughout the development process, we remained agile and adaptable, making strategic decisions to ensure that we met the customer's most essential needs while optimizing resource utilization. By leveraging our collective expertise and collaborating effectively, we were able to streamline workflows, overcome challenges, and make efficient use of our limited time.
 
-What Was Challenging:
+## What Was Challenging:
 Aligning our project goals with the customer's goals presented a significant challenge throughout the development of Voluntree. While we had a clear vision for the platform's functionality and features, ensuring that these objectives resonated with the customer's needs and expectations required careful navigation. One aspect of this challenge stemmed from the inherent complexity of understanding and interpreting the customer's priorities and preferences. Despite our best efforts to gather feedback and insights, there were instances where differing perspectives led to misunderstandings.
 
 To address this challenge, regular check-ins and customer feedback should be sought. Even through email, discussing any emerging challenges or changes would ensure the project remains on track to meet the customer’s expectations. Actively seeking customer feedback at key milestones would allow the team to validate assumptions, gather insights, and make course corrections as needed.
@@ -82,12 +86,17 @@ Additionally, maintaining consistent communication among team members presented 
 
 In the future, I intend to implement a more rigorous meeting schedule to proactively address the communication challenges that arose during development. This entails establishing a structured cadence for team meetings and ensuring that they occur regularly and consistently to facilitate ongoing communication and collaboration among team members. I also intend to implement policies regarding excused absences to ensure that everyone remains committed and accountable to the team's efforts.
 
-Improvements:
+## Improvements:
 While the application is functional and successfully incorporates many of the basic features requested by the customer, it's important to acknowledge that certain areas still need more depth or refinement. For example, admin moderation needs to be fleshed out with user notifications, better UI, and review editing. Doing this across the site would help make the site feel more sophisticated. This process underscores our commitment to delivering a comprehensive solution that exceeds the customer's expectations and enhances the overall user experience.
 
 While the application currently fulfills basic functionalities requested by the customer, it's crucial to recognize that there are areas requiring further depth and refinement. Specifically, the admin moderation aspect, which is pivotal for maintaining site integrity, needs significant improvement. Enhancements such as implementing user notifications, refining the user interface for ease of use, and introducing review editing capabilities are essential steps in this direction. By extending these improvements across the site, we aim to comprehensively elevate its sophistication and user experience. This iterative refinement process reflects our commitment to delivering a solution that not only meets but exceeds the customer's expectations.
 
-Organization:
-Team Members: Thomas Rivera, Sierra Morales, Alden Paroni, Jiawen Chen, Jianle Liu, HokWai Chan, Ryan Seng, William Simmons
-Source Code: GitHub Link (https://github.com/Ube-Dev/Voluntree)
-Page: GitHub Page (https://ube-dev.github.io/)
+## Team:
+```Members:``` Thomas Rivera, Sierra Morales, Alden Paroni, Jiawen Chen, Jianle Liu, HokWai Chan, Ryan Seng, William Simmons
+
+## Links:
+To see more about Voluntree, please visit the following links:
+
+```Source Code:```[GitHub Repo](https://github.com/Ube-Dev/Voluntree)
+
+```Page:``` [Voluntree](https://ube-dev.github.io/)
