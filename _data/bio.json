@@ -38,8 +38,10 @@
       "studyType": "B.S.",
       "startDate": "2023-01-10",
       "endDate": "Present",
-      "courses": [ 
-        "ICS 321", "ICS 314", "ICS 311"
+      "courses": [
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I"
       ]
     },
     {
@@ -49,7 +51,11 @@
       "startDate": "2021-05-30",
       "endDate": "2023-8-10",
       "courses": [
-        "ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 212"
+        "ICS 111 - Introduction to Computer Science (Java Programming)",
+        "ICS 211 - Introduction to Computer Science (Data Structures)",
+        "ICS 212 - Program Structure",
+        "ICS 141 - Discrete Mathematics I",
+        "ICS 241 - Discrete Mathematics II"
       ]
     }
   ],
@@ -71,9 +77,9 @@
       "position": "Co-counsel, Division Leader",
       "startDate": "2018",
       "endDate": "2021",
-      "summary": "As a member of the Damien National Honor Society, I participated in many service projects around my community and helped other students through tutoring. In 2019, I became a Division Leader, who is in charge of keeping attendance, assigning tutoring times, and ensuring people fulfill theirs. In 2020, I became the Co-Counsel, managing the NHS.",
+      "summary": "As a member of the Damien Memorial School National Honor Society, I participated in service projects around my community and helped students through tutoring. In 2019, I became a Division Leader in charge of keeping attendance and running tutoring sessions. In 2020, I became the one of the two Co-Counsels, managing the National Honor Society.",
       "highlights": [
-        "Learned how to communicate with and manage a large group of people"
+        "Learned how to communicate and manage a large team."
       ]
     }
   ],
