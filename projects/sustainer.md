@@ -6,10 +6,13 @@ title: "Sustainer"
 date: 2023
 published: true
 labels:
-  - HACC 2023
-  - Meteor
-  - React Bootstrap
-  - JavaScript
+    - HACC 2023
+    - Javascript
+    - React.js
+    - Meteor.js
+    - MongoDB
+    - Semantic UI
+    - Agile Project Management
 summary: "A web app to order reusable takeout containers for events."
 ---
 
