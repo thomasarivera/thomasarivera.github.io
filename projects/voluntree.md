@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: img/voluntree/voluntreeLogo.png
 title: "Voluntree"
 # All dates must be YYY-MM-DD format!
