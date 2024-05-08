@@ -11,7 +11,7 @@ labels:
 - AI
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/it-starts-with-hello-world/How-to-Become-a-Software-Engineer-2141155279.jpg" alt="Software Engineering">
+<img width="500px" class="float-start mx-2" src="../img/it-starts-with-hello-world/How-to-Become-a-Software-Engineer-2141155279.jpg" alt="Software Engineering">
 
 ## Introduction:
 When I first started college, I knew Computer Science was my major. However, as to what career I would pursue, I was still determining. I spent hours researching career paths, reading articles and forums, and watching YouTube videos. During this time, a Youtuber by the name of Python Programmer caught my eye with a video named "Don't learn to program in 2022." Obviously, I was interested in this title. It may have had to do with the rise of generative artificial intelligence. However, what was discussed has stuck with me to this day.

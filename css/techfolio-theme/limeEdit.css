@@ -48,7 +48,6 @@ a {
 }
 
 img {
-  border-radius: 10px !important;
-  box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.10) !important;
-  padding: 5px !important;
+  border-radius: 20px !important;
+  box-shadow: 5px 5px 2px 0px rgba(0, 0, 0, 0.15) !important;
 }
