@@ -60,9 +60,10 @@ Empower your organization's impact with Voluntree. Seamlessly create and manage 
 </div>
 
 ## Contributions:
-Acting as the project lead, I helped develop ideas and features for Voluntree. I worked on the front and back end, creating new features and managing their progress. Back-end development involved creating collections and methods. On the front end, I immersed myself in user interface design that works great on both desktop and mobile devices. Leveraging my HTML, CSS, and JavaScript proficiency, Voluntree quickly came to life with a cohesive and pleasing look.
+Acting as the project lead, I helped develop ideas and features for Voluntree. I worked on the front and back end, creating new features and managing their progress. Back-end development involved creating collections and methods. On the front end, I immersed myself in user interface design that works great on both desktop and mobile devices. Leveraging my React Bootstrap, CSS, and JavaScript proficiency, Voluntree quickly came to life with a cohesive and pleasing look.
 
 ### Highlights:
+<hr />
 #### User/Organization Hour Recording
 Volunteers effortlessly log their hours using a personalized QR code. When volunteers attend an event, organizations simply scan their unique QR code to record their participation hours. This streamlined process ensures efficient tracking and management of volunteer hours.
 
@@ -132,8 +133,6 @@ In the future, I intend to implement a more rigorous meeting schedule to proacti
 
 ## Improvements:
 While the application is functional and successfully incorporates many of the basic features requested by the customer, it's important to acknowledge that certain areas still need more depth or refinement. For example, admin moderation needs to be fleshed out with user notifications, better UI, and review editing. Doing this across the site would help make the site feel more sophisticated. This process underscores our commitment to delivering a comprehensive solution that exceeds the customer's expectations and enhances the overall user experience.
-
-While the application currently fulfills basic functionalities requested by the customer, it's crucial to recognize that there are areas requiring further depth and refinement. Specifically, the admin moderation aspect, which is pivotal for maintaining site integrity, needs significant improvement. Enhancements such as implementing user notifications, refining the user interface for ease of use, and introducing review editing capabilities are essential steps in this direction. By extending these improvements across the site, we aim to comprehensively elevate its sophistication and user experience. This iterative refinement process reflects our commitment to delivering a solution that not only meets but exceeds the customer's expectations.
 
 ## Team:
 ```Members:``` Thomas Rivera, Sierra Morales, Alden Paroni, Jiawen Chen, Jianle Liu, HokWai Chan, Ryan Seng, William Simmons
