@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/rock-paper-scissors/rock-paper-scissors-hand.jpeg
 title: "Rock Paper Scissors"
-date: 2021
+# All dates must be YYY-MM-DD format!
+date: 2021-10-20
 published: true
 labels:
   - Java

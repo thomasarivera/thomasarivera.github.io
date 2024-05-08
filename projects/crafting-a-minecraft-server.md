@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/crafting-a-minecraft-server/minecraft-title.jpeg
 title: "Crafting a Minecraft Server"
-date: 2021
+# All dates must be YYY-MM-DD format!
+date: 2021-01-07
 published: true
 labels:
   - Ubuntu Server
