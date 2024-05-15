@@ -3,9 +3,10 @@ layout: project
 type: project
 image: img/tutoring-coordination-program/eagle-scout-logo.png
 title: "Tutoring Coordination Program"
-date: 2020
+date: 2020-07-10
 published: true
 labels:
+  - Eagle-Scout
   - Leadership
   - Communication
   - Personal-Development
