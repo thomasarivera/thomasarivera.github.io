@@ -5,7 +5,7 @@ image: img/rock-paper-scissors/rock-paper-scissors-hand.jpeg
 title: "Rock Paper Scissors"
 # All dates must be YYY-MM-DD format!
 date: 2021-10-20
-published: false
+published: true
 labels:
   - Java
   - Game

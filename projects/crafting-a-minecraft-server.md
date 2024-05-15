@@ -5,7 +5,7 @@ image: img/crafting-a-minecraft-server/minecraft-title.jpeg
 title: "Crafting a Minecraft Server"
 # All dates must be YYY-MM-DD format!
 date: 2021-01-07
-published: true
+published: false
 labels:
   - Ubuntu Server
   - Networking
