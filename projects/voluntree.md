@@ -118,6 +118,10 @@ Admins wield comprehensive control over the site's operations through the intuit
 </div>
 </div>
 
+#### Automated Unit Tests
+TestCafe was used to implement automated unit tests in the development of Voluntree, ensuring the reliability and functionality of the web application. I assisted in creating tests for forums, interactive elements, and various pages, which helped identify and resolve issues early in the development process. This rigorous testing approach ensured that new code changes did not introduce regressions, contributing to a more robust and maintainable codebase.
+<hr />
+
 ## What Went Well:
 Collaborative teamwork was the cornerstone of Voluntree's development. Despite the challenges posed by remote work, our team's commitment to effective communication ensured success. We commenced by establishing a clear plan and shared vision, fostering cohesion and understanding among all members. This strategic approach streamlined our workflow, facilitating rapid development with minimal confusion or setbacks.
 
