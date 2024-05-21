@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Thomas Rivera",
-    "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/70453373?s=400&u=e7bac78cecc91df9beea926553363df061cb79b4&v=4",
     "email": "thomas5info@gmail.com",
     "phone": "808-292-9745",
     "website": "http://thomasarivera.com",
-    "summary": "I view every opportunity as a platform for learning and growth, and consistently commit to excellence in all endeavors. I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "Resourceful and detail-oriented aspiring software engineer proficient in React.js, TestCafe, and JavaScript. I excel in collaborative Agile Software Development and Issue-Driven Project Management, enabling quick and successful delivery of projects. As an Eagle Scout, I learned responsibility and leadership. I view every opportunity as a platform for learning and growth and consistently commit to excellence in all endeavors.",
 
 
     "profiles": [
@@ -16,25 +15,25 @@
   },
   "interests": [
     { "name": "Full Stack Software Development" },
-    { "name": "Artificial Intelligence" },
-    { "name": "Machine Learning" },
+    { "name": "Web Development" },
     { "name": "Cybersecurity" },
-    { "name": "Web Development" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "React Bootstrap", "Meteor JS", "Javascript", "Java", "C", "C++" ]
+      "keywords": [ "React.js", "Semantic UI", "TestCafe", "JavaScript", "Java", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Ubuntu Server", "Windows 10", "Git/GitHub" ]
+      "keywords": [ "Git", "IntelliJ", "Ubuntu", "Ubuntu Server", "MacOS", "Windows 10" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "BS Computer Science (expected May, 2025)",
       "studyType": "B.S.",
       "startDate": "2023-01-10",
       "endDate": "Present",
@@ -46,7 +45,7 @@
     },
     {
       "institution": "University of Hawaii Leeward Community College, Pearl City, HI",
-      "area": "Computer Science",
+      "area": "AS Natural Science Information & Communication Technology",
       "studyType": "A.S.",
       "startDate": "2021-05-30",
       "endDate": "2023-8-10",
