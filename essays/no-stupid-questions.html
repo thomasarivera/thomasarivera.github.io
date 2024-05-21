@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="No &quot;Stupid&quot; Questions? | Thomas Rivera | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/70453373?s=400&u=e7bac78cecc91df9beea926553363df061cb79b4&v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Thomas Rivera | Professional Portfolio">
+    <meta property="og:url" content="https://thomasarivera.github.io/essays/no-stupid-questions.html">
+    <meta property="og:title" content="No &quot;Stupid&quot; Questions? | Thomas Rivera | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/70453373?s=400&u=e7bac78cecc91df9beea926553363df061cb79b4&v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>No "Stupid" Questions? | Thomas Rivera | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Thomas Rivera</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">No "Stupid" Questions?</h1>
+  <span class="date">06 Sep 2023</span>
+  <hr>
+  <p><img width="500px" class="rounded float-start pe-4" src="../img/no-stupid-questions/img-no-stupid-question.jpeg" /></p>
+
+<h2 id="there-are-no-stupid-questions">“There Are No Stupid Questions”:</h2>
+<p>All my life in school, my teachers have said the phrase, “There are no stupid questions.” And they are right! There are no stupid questions, but do not expect your question to get a good answer. Asking questions is a crucial task, allowing us humans to communicate clearly and effectively. But the questions we ask should be meaningful.</p>
+
+<p>In the online essay “How To Ask Questions The Smart Way” by Eric Raymond, he puts into perspective what it means to ask a question from a hacker’s point of view. Eric points out that the kind of answers you get to your technical questions depends on the way you ask the questions. Hackers have become notorious for answering questions with a snarky or hostile tone, but that just may be because you asked a “stupid” question.</p>
+
+<h2 id="smart-and-not-so-smart-questions">“Smart” and “Not so Smart” Questions:</h2>
+<p>Asking the right questions makes all the difference. Even small questions like “Should I brush my teeth tonight?”, the answer is no because I’m lazy, can have a significant impact. In this example, my question may be considered “stupid” if I’m trying to take care of my teeth. This is because it’s asking a bad question, leading to a bad answer. The smart version of this question is, “Why should I brush my teeth tonight?” The answer is that it prevents cavities, and so yes, I should brush my teeth.</p>
+
+<p>When it comes to technical questions, like in Software Engineering, asking “smart questions is important. But before you even ask a question, it is also important to do your part. Now, what am I talking about? Shouldn’t I be able to just ask the question and have someone spend their precious time answering it for me? No, asking a “smart” question requires you to do your research first. This includes reading a manual, searching an online forum to see if another person already asked this question, experimenting, or asking a skilled friend. Only after doing everything and still coming up empty-handed should you ask for help.</p>
+
+<p>The next step is creating the question. When writing a “smart” question, Eric Raymond recommends using meaningful, specific subject headers and creating a precise question that is easy to read and reply to. He also mentions how the tone of your question matters: write in a confident and intelligent tone. If I were to look at a question where it was clear the person did not attempt to do anything, I would ignore it. Following these guidelines does a couple of things: it shows to other people that you have put in the effort to solve your question, and your “smart” question is more likely to get an answer. After making a question, it is time to release it to the world. Deciding where to ask is also essential to getting a good solution. When looking, choose based on your skill level, the problem’s difficulty, and the question’s topic.</p>
+
+<h2 id="examples">Examples:</h2>
+<p>On StackOverflow, a question and answer site for programmers, I found a couple of questions that display a “stupid” and a “smart” question.</p>
+
+<h3 id="stupid-question">“Stupid” Question:</h3>
+<hr />
+<p>T: Cloudflare, block user IP’s not from Cloudflare, but still allow server IP scripts to run locally [closed]</p>
+
+<p>Q: We recently had an DDOS and various other attacks on our website which has a lot of frontend/backend programming. So we
+now have the Cloudflare Business account using Geo-Blocking, WAF, DDOS protection, rate-limiting, etc.</p>
+
+<p>I know that Cloudflare recommends only allowing their incoming IP’s, and to block all other incoming IP’s such as the direct server IP so people cannot access or spoof the IP with their host file.</p>
+
+<p>Right now we are running Windows Server 2012 R2 Datacenter.</p>
+
+<p>The problem I have is that I have a lot (around 40 or 50) scripts on the server that are executed using the server IP/Domain (Domain modified on web server using host file so we don’t go through Cloudflare) on the server itself, not from the outside world.</p>
+
+<p>They are time consuming scripts that run reports and other things. We have the Cloudflare Business account, but it has a timeout of 100 seconds. These scripts run longer than that otherwise it would not be a problem.</p>
+
+<p>I’ve done some basic things like not allowing internet users to access the site by the direct IP, but it’s still possible to spoof it using the host file if they want on their computers or other compromised computers. This will bypass Cloudflare since they are bypassing the proxy DNS on Cloudflare.</p>
+
+<p>I was wondering if anyone has any ideas on how to block the server IP for internet users, but still allow it to be used internally on the server.</p>
+
+<p>Hopefully that makes sense.
+Thank you for your help!</p>
+
+<h4 id="analysis">Analysis:</h4>
+<p>This is an example of a “stupid” question. Although the subject title and the explanation of the problem are sufficient, this is not a good question because StackOverflow is not  the correct place for this topic. This is further exemplified by the fact that StackOverflow closed the question due to it not being about programming or software development. A more suitable forum to post this question would have been Server Fault.</p>
+
+<h3 id="smart-question">“Smart” Question:</h3>
+<hr />
+<p>T: fatal error: Python.h: No such file or directory</p>
+
+<p>Q: I am trying to build a shared library using a C extension file but first I have to generate the output file using the command below:</p>
+
+<blockquote>
+  <p>gcc -Wall utilsmodule.c -o Utilc</p>
+</blockquote>
+
+<p>After executing the command, I get this error message:</p>
+
+<blockquote>
+  <p>utilsmodule.c:1:20: fatal error: Python.h: No such file or directory compilation terminated.</p>
+</blockquote>
+
+<p>I have tried all the suggested solutions over the internet but the problem still exists. I have no problem with Python.h. I managed to locate the file on my machine.</p>
+
+<h4 id="analysis-1">Analysis:</h4>
+<p>The user asking the question does a good job in his format. First off, the subject title is straightforward and shows what the issue is. It is clear that the user is getting an error from Python and that a directory can not be found. In the question itself, the user informs readers on what they are attempting to do and what steps they have taken to get to. Furthermore, as a show of confidence, the user then explains how he already attempted to find a solution and even searched online. Questions like this are a good example of a “smart” question and the answers that follow show that.</p>
+
+<h2 id="conclusion">Conclusion:</h2>
+<p>Yes, it is true; there are no stupid questions. However, do not expect to get the answers you want from those questions. Asking the right and “smart” questions is crucial in life and can be a lifesaver when it comes to difficult tasks. When you are asking a question, it takes another person’s time and energy to help you, so make sure when you ask a question, make it a “smart” one.</p>
+
+<hr />
+
+<p>Source: <a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
