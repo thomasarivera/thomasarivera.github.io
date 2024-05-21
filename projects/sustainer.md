@@ -13,13 +13,20 @@ labels:
     - Meteor.js
     - MongoDB
     - Semantic UI
+    - TestCafe
     - Agile Project Management
 summary: "A web app to order reusable takeout containers for events."
 ---
 
 <div class="text-center">
-<img class="img-fluid" src="../img/sustainer/landing-page.png" alt="Landing page of Sustainer" width="750px">
+    <img class="img-fluid" src="../img/sustainer/landing-page.png" alt="Landing page of Sustainer" width="750px">
 </div>
+
+```Language(s):``` Javascript, HTML, CSS
+
+```Frameworks/Libraries:``` React.js, Meteor.js, Semantic UI, TestCafe
+
+```Database:``` MongoDB
 
 ## Hawai'i Annual Code Challenge:
 The Hawai'i Annual Code Challenge (HACC) is a hackathon started in 2015 by Gov. David Ige. It encourages civic engagement with the local technology community in modernizing state functions and services for a more effective, efficient, and open government. Over three weeks, the HACC generates proofs-of-concept by students, amateurs, and professional coders to benefit community and State agencies.
@@ -81,7 +88,5 @@ Communication is vital in a team environment and requires all members to be on t
 
 ## What Could Be Improved:
 Overall, Sustainer was a complete package with all the features we wanted to include. There's no doubt that the team spread themselves thin, and as a result, some parts of the app turned out to need to be more polished. For example, the look and feel of the app needed more time to optimize for multiple screen sizes. Some functions are also buggy in certain areas and scenarios. These problems would have been solved with more time, but it's proof that we aimed for the moon and missed it, but we at least landed among the stars. With further development, security features need to be implemented. This includes account security with multi factor authentication. Furthermore, with the collection of sensitive information like credit cards, serverside security measures are also needed.
-
-<br>
 
 Source: <a href="https://sus-tainer.github.io/">Sustainer Organization Page</a>

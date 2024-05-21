@@ -18,7 +18,7 @@ summary: " A volunteer management system that matches willing volunteers with no
 ---
 
 <div class="text-center p-4">
-<img width="1000px" class="img-fluid" src="../img/voluntree/Landing1.png" alt="Voluntree Landing Page">
+    <img width="1000px" class="img-fluid" src="../img/voluntree/Landing1.png" alt="Voluntree Landing Page">
 </div>
 
 ```Language(s):``` Javascript, HTML, CSS
