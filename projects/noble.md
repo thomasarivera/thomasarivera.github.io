@@ -14,7 +14,7 @@ lables:
   - React Bootstrap
   - TestCafe
   - Agile Project Management
-summary: "Provides the Service Members of the Hawaii Air National Guard (HIANG) with anonymous, reliable health information and support, empowering individuals to make informed decisions with confidence. With Noble, we will be prepared for tomorrow."
+summary: "Provides the Service Members of the Hawaii Air National Guard (HIANG) with anonymous, reliable health information and support, empowering individuals to make informed decisions with confidence."
 ---
 
 <div class="text-center p-4">

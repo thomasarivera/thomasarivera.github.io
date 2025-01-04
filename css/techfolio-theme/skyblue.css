@@ -20,7 +20,11 @@
   --tf-projects-bg-color: var(--tf-blue4);
 }
 
-h1,h2,h3,h4,h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   color: var(--tf-blue1);
   font-family: Rubik;
 }
@@ -30,7 +34,7 @@ h1,h2,h3,h4,h5 {
   display: inline-block;
   fill: var(--tf-blue1);
   height: 1.5em;
-  vertical-align: -.1em;
+  vertical-align: -0.1em;
   width: 1.5em;
   transition: 0.2s;
 }
@@ -41,6 +45,16 @@ h1,h2,h3,h4,h5 {
 
 a {
   text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
 }
 
 .rounded-circle {
