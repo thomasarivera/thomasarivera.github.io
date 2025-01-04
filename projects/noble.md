@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/noble/thumbnail.png
 title: "Noble"
-published: draft
+published: true
 # All dates must be YYY-MM-DD format!
 date: 2024-12-16
 lables:

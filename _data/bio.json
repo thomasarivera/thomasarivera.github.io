@@ -7,10 +7,17 @@
     "website": "http://thomasarivera.com",
     "summary": "Resourceful and detail-oriented aspiring software engineer proficient in React.js, TestCafe, and JavaScript. I excel in collaborative Agile Software Development and Issue-Driven Project Management, enabling quick and successful delivery of projects. As an Eagle Scout, I learned responsibility and leadership. I view every opportunity as a platform for learning and growth and consistently commit to excellence in all endeavors.",
 
-
     "profiles": [
-      { "network": "github", "username": "thomasarivera", "url": "http://github.com/thomasarivera" },
-      { "network": "linkedin", "username": "Thomas Rivera", "url": "https://www.linkedin.com/in/thomasarivera/" }
+      {
+        "network": "github",
+        "username": "thomasarivera",
+        "url": "http://github.com/thomasarivera"
+      },
+      {
+        "network": "linkedin",
+        "username": "Thomas Rivera",
+        "url": "https://www.linkedin.com/in/thomasarivera/"
+      }
     ]
   },
   "interests": [
@@ -23,11 +30,26 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "React.js", "Semantic UI", "TestCafe", "JavaScript", "Java", "C", "C++" ]
+      "keywords": [
+        "React.js",
+        "Semantic UI",
+        "TestCafe",
+        "JavaScript",
+        "Java",
+        "C",
+        "C++"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git", "IntelliJ", "Ubuntu", "Ubuntu Server", "MacOS", "Windows 10" ]
+      "keywords": [
+        "Git",
+        "IntelliJ",
+        "Ubuntu",
+        "Ubuntu Server",
+        "MacOS",
+        "Windows 10"
+      ]
     }
   ],
   "education": [
@@ -77,17 +99,7 @@
       "startDate": "2018",
       "endDate": "2021",
       "summary": "As a member of the Damien Memorial School National Honor Society, I participated in service projects around my community and helped students through tutoring. In 2019, I became a Division Leader in charge of keeping attendance and running tutoring sessions. In 2020, I became the one of the two Co-Counsels, managing the National Honor Society.",
-      "highlights": [
-        "Learned how to communicate and manage a large team."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "President’s List",
-      "date": "2017-2021",
-      "awarder": "Damien Memorial School",
-      "summary": "Awarded to students who have 4.0 and higher GPA."
+      "highlights": ["Learned how to communicate and manage a large team."]
     }
   ],
   "references": [
