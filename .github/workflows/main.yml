@@ -16,7 +16,16 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - run: gem update --system 3.3.22
+      - run: |
+          sudo apt-get update
+          sudo apt-get install -y software-properties-common
+          sudo apt-add-repository -y ppa:rael-gc/rvm
+          sudo apt-get update
+          sudo apt-get install -y rvm
+          source /etc/profile.d/rvm.sh
+          rvm install ruby
+          rvm use ruby --default
+          gem update --system 3.3.22
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
