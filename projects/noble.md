@@ -17,7 +17,7 @@ lables:
 summary: "Provides the Service Members of the Hawaii Air National Guard (HIANG) with anonymous, reliable health information and support, empowering individuals to make informed decisions with confidence."
 ---
 
-<div class="text-center p-4">
+<div class="text-center p-4 img-rounded">
     <img width="1000px" class="img-fluid" src="../img/noble/landing.png" alt="Voluntree Landing Page">
 </div>
 
