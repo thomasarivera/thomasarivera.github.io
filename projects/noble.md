@@ -17,8 +17,8 @@ lables:
 summary: "Provides the Service Members of the Hawaii Air National Guard (HIANG) with anonymous, reliable health information and support, empowering individuals to make informed decisions with confidence."
 ---
 
-<div class="text-center p-4 img-rounded">
-    <img width="1000px" class="img-fluid" src="../img/noble/landing.png" alt="Voluntree Landing Page">
+<div class="text-center p-4">
+    <img width="1000px" class="img-fluid img-rounded" src="../img/noble/landing.png" alt="Noble Landing Page">
 </div>
 
 `Language(s):` Javascript, HTML, CSS
@@ -34,7 +34,7 @@ Medical readiness is essential for maintaining membership in the Hawaii Air Nati
 Despite implementing an anonymous “Ask a Doc” dropbox for questions, no queries have been submitted in three months, highlighting a lack of trust in the process. Members fear that revealing medical conditions could lead to restrictions or separation from service.
 
 <div class="text-center p-4">
-    <img width="1000px" class="img-fluid" src="../img/noble/ask-a-doc-box.png" alt="ask-a-doc-box">
+    <img width="500px" class="img-fluid" src="../img/noble/ask-a-doc-box.png" alt="ask-a-doc-box">
 </div>
 
 ## Our Solution
