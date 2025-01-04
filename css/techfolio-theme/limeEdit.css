@@ -64,4 +64,6 @@ a {
 .img-rounded {
   border-radius: 20px !important;
   box-shadow: 5px 5px 2px 0px rgba(0, 0, 0, 0.15) !important;
+  max-width: 100%;
+  height: auto;
 }
