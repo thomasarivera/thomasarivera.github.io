@@ -18,7 +18,8 @@ summary: "Provides the Service Members of the Hawaii Air National Guard (HIANG) 
 ---
 
 <div class="text-center p-4">
-    <img width="1000px" class="img-fluid" className="img-rounded" src="../img/noble/landing.png" alt="Noble Landing Page">
+    <img width="1000px" class="img-fluid" src="../img/noble/landing.png" alt="Noble Landing Page">
+</div>
 </div>
 
 `Language(s):` Javascript, HTML, CSS
